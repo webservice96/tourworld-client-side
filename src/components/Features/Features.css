@@ -1,0 +1,33 @@
+.feature-box {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.feature-icon {
+    width: 60px;
+}
+
+.feature-box {
+    padding: 40px !important;
+}
+
+.f-box-2 {
+    background-color: #000e44;
+    color: #fff;
+}
+
+.f-box-2 p {
+    color: #848e9f;
+}
+
+.f-box-2 svg, .f-box-1 svg {
+    color: #3FD0D4;
+}
+
+.f-box-3 {
+    background-color: #3FD0D4;
+    color: #fff;
+}
+
+.f-box-3 svg {
+    color: #fff;
+}

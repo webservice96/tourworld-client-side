@@ -1,0 +1,796 @@
+[
+    {
+        "Type": "Topic",
+        "Id": "25",
+        "Title": "Keep Your Heart Healthy",
+        "Shortdesc": "Interactively procrastinate high-payoff content without backward-compatible data. Quickly",
+        "TranslationId": "25",
+        "TranslationTitle": "",
+        "Categories": "",
+        "Populations": "",
+        "MyHFTitle": "",
+        "MyHFDescription": "",
+        "MyHFCategory": "",
+        "MyHFCategoryHeading": "",
+        "LastUpdate": "1625749723",
+        "ImageUrl": "https://health.gov/sites/default/files/2020-01/kyhh.png",
+        "ImageAlt": "Keep Your Heart Healthy",
+        "AccessibleVersion": "https://health.gov/myhealthfinder/topics/health-conditions/heart-health/keep-your-heart-healthy",
+        "RelatedItems": {
+            "RelatedItem": [
+                {
+                    "Type": "Topic",
+                    "Id": "30544",
+                    "Title": "Talk with Your Doctor About Taking Aspirin to Prevent Disease",
+                    "Url": "https://health.gov/myhealthfinder/topics/health-conditions/heart-health/talk-your-doctor-about-taking-aspirin-prevent-disease"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30610",
+                    "Title": "Quit Smoking",
+                    "Url": "https://health.gov/myhealthfinder/topics/health-conditions/diabetes/quit-smoking"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30606",
+                    "Title": "Alcohol Use: Conversation starters",
+                    "Url": "https://health.gov/myhealthfinder/topics/everyday-healthy-living/mental-health-and-relationships/alcohol-use-conversation-starters"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30559",
+                    "Title": "Eat Less Sodium: Quick tips",
+                    "Url": "https://health.gov/myhealthfinder/topics/health-conditions/heart-health/eat-less-sodium-quick-tips"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30596",
+                    "Title": "Healthy Eating: Conversation starters",
+                    "Url": "https://health.gov/myhealthfinder/topics/health-conditions/diabetes/healthy-eating-conversation-starters"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30605",
+                    "Title": "Heart Health: Conversation Starters",
+                    "Url": "https://health.gov/myhealthfinder/topics/health-conditions/heart-health/heart-health-conversation-starters"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30602",
+                    "Title": "Heart-Healthy Foods: Shopping list",
+                    "Url": "https://health.gov/myhealthfinder/topics/health-conditions/heart-health/heart-healthy-foods-shopping-list"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30597",
+                    "Title": "Help a Loved One Get More Active: Quick tips",
+                    "Url": "https://health.gov/myhealthfinder/topics/health-conditions/diabetes/help-loved-one-get-more-active-quick-tips"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30601",
+                    "Title": "Preventing Type 2 Diabetes: Questions for the Doctor",
+                    "Url": "https://health.gov/myhealthfinder/topics/doctor-visits/talking-doctor/preventing-type-2-diabetes-questions-doctor"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30598",
+                    "Title": "Losing Weight: Conversation starters",
+                    "Url": "https://health.gov/myhealthfinder/topics/health-conditions/diabetes/losing-weight-conversation-starters"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30615",
+                    "Title": "Losing Weight: Questions for the doctor",
+                    "Url": "https://health.gov/myhealthfinder/topics/health-conditions/obesity/losing-weight-questions-doctor"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30588",
+                    "Title": "Quitting Smoking: Conversation starters",
+                    "Url": "https://health.gov/myhealthfinder/topics/health-conditions/cancer/quitting-smoking-conversation-starters"
+                }
+            ]
+        },
+        "Sections": {
+            "section": [
+                {
+                    "Title": "The Basics: Overview",
+                    "Description": "",
+                    "Content": "<p><span><span>Heart&nbsp;disease is the leading cause of death for both men and women in the United&nbsp;States. Take steps today to lower your risk of heart disease.</span></span></p>\r\n\r\n<p><span><span>To help prevent heart disease, you can:</span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span>Eat healthy</span></span></span></li>\r\n\t<li><span><span><span>Get active</span></span></span></li>\r\n\t<li><span><span><span>Stay at a healthy&nbsp;weight</span></span></span></li>\r\n\t<li><span><span><span>Quit smoking and stay away from secondhand smoke</span></span></span></li>\r\n\t<li><span><span><span>Control your cholesterol and blood pressure</span></span></span></li>\r\n\t<li><span><span><span>Drink alcohol only in moderation</span></span></span></li>\r\n\t<li><span><span><span>Manage stress</span></span></span></li>\r\n</ul>\r\n\r\n<h3>Am I at risk for heart disease?</h3>\r\n\r\n<p><span><span>Anyone can get heart disease, but you’re at higher risk if you:</span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span>Have high cholesterol, high blood pressure, or diabetes</span></span></span></li>\r\n\t<li><span><span><span>Smoke</span></span></span></li>\r\n\t<li><span><span><span>Are overweight or have obesity&nbsp;</span></span></span></li>\r\n\t<li><span><span><span>Don't get enough physical activity</span></span></span></li>\r\n\t<li><span><span><span>Don't eat a healthy diet&nbsp;</span></span></span></li>\r\n</ul>\r\n\r\n<p><span><span>Your age and family history also affect your risk for heart disease. Your risk is higher if:&nbsp;</span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span>You’re a woman over age 55</span></span></span></li>\r\n\t<li><span><span><span>You’re a man over age 45</span></span></span></li>\r\n\t<li><span><span><span>Your father or brother had heart disease before age 55</span></span></span></li>\r\n\t<li><span><span><span>Your mother or sister had heart disease before age 65</span></span></span></li>\r\n</ul>\r\n\r\n<p><span><span>But the good news is there's a lot you can do to prevent heart disease.</span></span></p>\r\n"
+                },
+                {
+                    "Title": "The Basics: What Is Heart Disease?",
+                    "Description": "",
+                    "Content": "<h3>What is heart disease?</h3>\r\n\r\n<p><span><span>When people talk about heart disease, they’re usually talking about coronary heart disease (CHD). It’s also sometimes called coronary artery disease (CAD). This is the most common type of heart disease.</span></span></p>\r\n\r\n<p><span><span>When someone has CHD, the coronary arteries (tubes) that take blood to the heart are narrow or blocked. This happens when cholesterol and fatty material, called plaque, build up inside the arteries.</span></span></p>\r\n\r\n<p><span><span>Experts aren’t sure what causes plaque to build up. They think it may happen when your arteries get damaged by:</span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span>Too much fat and cholesterol in the blood</span></span></span></li>\r\n\t<li><span><span><span>High blood pressure</span></span></span></li>\r\n\t<li><span><span><span>Smoking</span></span></span></li>\r\n\t<li><span><span><span>Too much sugar in the blood because of diabetes or other health problems</span></span></span></li>\r\n</ul>\r\n\r\n<p><span><span>When plaque blocks an artery, it’s hard for blood to flow to the heart. A blocked artery can cause chest pain or a heart attack.&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/www.nhlbi.nih.gov/health/health-topics/topics/cad/?_label_=Learn+more+about+CHD\">Learn more about CHD</a>.</span></span></p>\r\n"
+                },
+                {
+                    "Title": "Take Action: Signs of a Heart Attack",
+                    "Description": "",
+                    "Content": "<h3>What is a heart attack?</h3>\r\n\r\n<p><span><span>A heart attack happens when blood flow to the heart is suddenly blocked. Part of the heart may die if the person doesn’t get help quickly.</span></span></p>\r\n\r\n<p><span><span>Some common signs of a heart attack include:</span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span>Pain or discomfort in the center or left side of the chest — or a feeling of pressure, squeezing, or fullness</span></span></span></li>\r\n\t<li><span><span><span>Pain or discomfort in the upper body — like the arms, back, shoulders, neck, jaw, or upper stomach (above the belly button)</span></span></span></li>\r\n\t<li><span><span><span>Shortness of breath or trouble breathing (while resting or being active)</span></span></span></li>\r\n\t<li><span><span><span>Feeling sick to your stomach or throwing up</span></span></span></li>\r\n\t<li><span><span><span>Stomach ache or feeling like you have heartburn&nbsp;</span></span></span></li>\r\n\t<li><span><span><span>Feeling dizzy, light-headed, or unusually tired</span></span></span></li>\r\n\t<li><span><span><span>Breaking out in a cold sweat</span></span></span></li>\r\n</ul>\r\n\r\n<p><span><span>Not everyone who has a heart attack will have all the signs.&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/www.nhlbi.nih.gov/health/health-topics/topics/heartattack/?_label_=Learn+more+about+the+signs+of+a+heart+attack\">Learn more about the signs of a heart attack</a>.</span></span></p>\r\n\r\n<h3>Don’t ignore changes in how you feel.</h3>\r\n\r\n<p><span><span>Signs of a heart attack often come on suddenly. But sometimes, they develop slowly — hours, days, or even weeks before a heart attack happens.</span></span></p>\r\n\r\n<p><span><span>Talk to your doctor if you feel unusually tired for several days, or if you develop any new health problems (like pain or trouble breathing). It's also important to talk to your doctor if existing health issues (like pain) are&nbsp;bothering you more than usual.</span></span></p>\r\n\r\n<p><span><span>If you’ve had a heart attack in the past, it’s important to know that symptoms of a new heart attack might be different from your last one — so talk with your doctor if you have any concerns about how you feel.&nbsp;</span></span></p>\r\n"
+                },
+                {
+                    "Title": "Take Action: When to Call 911",
+                    "Description": "",
+                    "Content": "<h3>Call 911 right away if you or someone else has signs of a heart attack.</h3>\r\n\r\n<p><span><span>Don’t ignore any signs or feel embarrassed to call for help. Acting fast can save a life — so call 911 even if you’re not sure it’s a heart attack.</span></span></p>\r\n\r\n<p><span><span>An ambulance is the best and safest way to get to the hospital. In an ambulance, EMTs (emergency medical technicians) can keep track of how you’re doing and start life-saving treatments right away.</span></span></p>\r\n\r\n<p><span><span>People who call an ambulance often get treated faster at the hospital. And when you call 911, the operator can tell you what to do until the ambulance gets there.</span></span></p>\r\n"
+                },
+                {
+                    "Title": "Take Action: Know Your Numbers",
+                    "Description": "",
+                    "Content": "<p><span><span>Take steps today to lower your risk for heart disease.</span></span></p>\r\n\r\n<h3>Control your cholesterol and blood pressure.</h3>\r\n\r\n<p><span><span>High cholesterol and high blood pressure can cause heart disease and heart attack. If your cholesterol or blood pressure numbers are high, you can take steps to lower them.</span></span></p>\r\n\r\n<h4>Get your cholesterol checked.</h4>\r\n\r\n<p><span><span>It’s important to&nbsp;get your cholesterol checked&nbsp;at least every 5 years. Some people will need to get it checked more or less often. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/doctor-visits/screening-tests/get-your-cholesterol-checked?_label_=Learn+more+about+cholesterol+testing\">Learn more about cholesterol testing</a>.</span></span></p>\r\n\r\n<h4>Get your blood pressure checked.</h4>\r\n\r\n<p><span><span>Starting at age 18,&nbsp;get your blood pressure checked&nbsp;regularly. High blood pressure has no signs or symptoms. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/doctor-visits/screening-tests/get-your-blood-pressure-checked?_label_=Get+the+facts+about+blood+pressure+testing\">Get the facts about blood pressure testing</a>.</span></span></p>\r\n\r\n<p><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/?_label_=Use+the+MyHealthfinder+tool\">Use the MyHealthfinder tool</a>&nbsp;to get personalized recommendations for screening tests and vaccines.</span></span></p>\r\n"
+                },
+                {
+                    "Title": "Take Action: Talk with Your Doctor",
+                    "Description": "",
+                    "Content": "<h3>Know your family’s health history.</h3>\r\n\r\n<p><span><span>Your family history affects your risk for heart disease.&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/phgkb.cdc.gov/FHH/html/index.html?_label_=Use+this+family+health+history+tool\">Use this family health history tool</a>&nbsp;to keep track of your family’s health. Share the information with your doctor or nurse.</span></span></p>\r\n\r\n<p><span><span>If you’re worried about a family member’s risk for heart disease,&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/health-conditions/heart-health/heart-health-conversation-starters?_label_=use+these+tips+to+start+a+conversation+about+heart+health\">use these tips to start a conversation about heart health</a>.</span></span></p>\r\n\r\n<h3>Ask your doctor about taking aspirin every day.</h3>\r\n\r\n<p><span><span>If you’re age 50 to 59, taking aspirin every day can lower your risk of heart attack and stroke — but doctors don’t recommend it for everyone. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/health-conditions/heart-health/talk-your-doctor-about-taking-aspirin-prevent?_label_=Talk+with+your+doctor+to+find+out+if+taking+aspirin+is+the+right+choice+for+you\">Talk with your doctor to find out if taking aspirin is the right choice for you</a>.</span></span></p>\r\n\r\n<h3><strong>Talk to your doctor about taking medicine to lower your risk of heart attack and stroke.&nbsp;</strong></h3>\r\n\r\n<p><span><span>Experts recommend that some people ages&nbsp;40 to 75 take medicines called statins if they’re at high risk for heart attack and stroke.&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/doctor-visits/talking-with-the-doctor/medicines-to-prevent-heart-attack-and-stroke-questions-for-the-doctor?_label_=Use+these+questions+to+talk+with+your+doctor+about+statins\">Use these questions to talk with your doctor about statins</a>.</span></span></p>\r\n"
+                },
+                {
+                    "Title": "Take Action: Food and Alcohol",
+                    "Description": "",
+                    "Content": "<h3>Eat healthy.</h3>\r\n\r\n<p><span><span>Eating healthy&nbsp;can help lower your risk of heart disease. A heart-healthy diet includes foods that are low in&nbsp;saturated fat, added sugars, and sodium (salt). <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/health-conditions/diabetes/eat-healthy?_label_=Learn+more+about+eating+healthy\">Learn more about eating healthy</a>.</span></span></p>\r\n\r\n<p><span><span>Heart-healthy items include high-fiber foods (whole grains, fruits, and vegetables) and certain fats (like the fats in olive oil and fish).&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/health-conditions/heart-health/heart-healthy-foods-shopping-list?_label_=Use+this+shopping+list+to+find+heart-healthy+foods\">Use this shopping list to find heart-healthy foods</a>.</span></span></p>\r\n\r\n<p><span><span>Check out these heart-healthy recipe collections:</span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/healthyeating.nhlbi.nih.gov/?_label_=Heart-Healthy+Cooking\">Heart-Healthy Cooking</a></span></span></span></li>\r\n\t<li><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.nhlbi.nih.gov/sites/default/files/publications/WEHL-RecipeBook_508.pdf?_label_=Heart+Healthy+Home+Cooking+African+American+Style+%5BPDF%26nbsp%3B-%26nbsp%3B6.6%26nbsp%3BMB%5D\">Heart Healthy Home Cooking African American Style [PDF&nbsp;-&nbsp;6.6&nbsp;MB]</a></span></span></span></li>\r\n\t<li><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/www.nhlbi.nih.gov/files/docs/public/heart/sp_recip.pdf?_label_=Delicious+Heart+Healthy+Latino+Recipes+%5BPDF+-+3+MB%5D\">Delicious Heart Healthy Latino Recipes [PDF - 3 MB]</a> (in English and Spanish)</span></span></span></li>\r\n</ul>\r\n\r\n<p><span><span>Don’t forget to make healthy choices when you eat out. For example, ask for a side salad instead of chips or french fries. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/www.nhlbi.nih.gov/health/educational/healthdisp/pdf/tipsheets/Tips-for-Eating-Out.pdf?_label_=Get+heart-healthy+tips+for+dining+out+%5BPDF+-+3+MB%5D\">Get heart-healthy tips for dining out [PDF - 3 MB]</a>.</span></span></p>\r\n\r\n<h3>Drink alcohol only in moderation.</h3>\r\n\r\n<p><span><span>Drinking&nbsp;too much alcohol can increase your risk of heart disease. So if you choose to drink alcohol,&nbsp;drink only in moderation. That means 1 drink or less in a day for women and 2 drinks or less in a day for men. </span></span></p>\r\n\r\n<p><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/health-conditions/heart-health/drink-alcohol-only-moderation?_label_=Learn+more+about+drinking+alcohol+only+in+moderation\">Learn more about drinking alcohol only in moderation</a>.</span></span></p>\r\n"
+                },
+                {
+                    "Title": "Take Action: Physical Activity",
+                    "Description": "",
+                    "Content": "<h3>Get active.</h3>\r\n\r\n<p><span><span>Getting regular physical activity can help prevent heart disease. Adults need at least 150 minutes of moderate-intensity aerobic activity each week. This includes anything that gets your heart beating faster —&nbsp;like walking, dancing, and biking.</span></span></p>\r\n\r\n<p><span><span>If you’re just getting started, take it slow! Try fitting a quick walk into your day. Even 5 minutes has real health benefits —&nbsp;and you can build up to more activity over time. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/health-conditions/diabetes/get-active?_label_=Learn+more+about+getting+active\">Learn more about getting active</a>.</span></span></p>\r\n\r\n<h3>Stay at a healthy weight.</h3>\r\n\r\n<p><span><span>People who are overweight or have obesity are at an increased risk for heart disease, high blood pressure, and&nbsp;type 2 diabetes.<br />\r\n<br />\r\nIf you’re overweight or have obesity, losing 5 to 10 percent of your body weight can help lower your risk of heart disease. For example, if you weigh 200 pounds, that would mean losing 10 to 20 pounds.&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/health-conditions/diabetes/watch-your-weight?_label_=Find+out+how+to+control+your+weight\">Find out how to control your weight</a>.</span></span></p>\r\n\r\n<p><span><span>If you don't know if you’re at a healthy weight,&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/english_bmi_calculator/bmi_calculator.html?_label_=use+this+calculator%26nbsp%3Bto+figure+out+your+body+mass+index+%28BMI%29\">use this calculator&nbsp;to figure out your body mass index (BMI)</a>.</span></span></p>\r\n"
+                },
+                {
+                    "Title": "Take Action: Healthy Habits",
+                    "Description": "",
+                    "Content": "<h3>Quit smoking and stay away from secondhand smoke.</h3>\r\n\r\n<p><span><span>Quitting smoking&nbsp;helps lower your risk of heart disease and heart attack. Call 1-800-QUIT-NOW (1-800-784-8669) for free support and to set up your plan for quitting. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/health-conditions/diabetes/quit-smoking?_label_=Get+more+information+about+quitting+smoking\">Get more information about quitting smoking</a>. </span></span></p>\r\n\r\n<p><span><span>Avoiding secondhand smoke is important, too — so keep your home smoke-free. If you have guests who smoke, ask them to smoke outside. If someone in your home smokes,&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/health-conditions/cancer/quitting-smoking-conversation-starters?_label_=use+these+tips+to+start+a+conversation+about+quitting\">use these tips to start a conversation about quitting</a>. &nbsp;</span></span></p>\r\n\r\n<h3>Manage stress.</h3>\r\n\r\n<p><span><span>Managing stress can help prevent serious health problems like heart disease, depression, and high blood pressure. Deep breathing and meditation are good ways to relax and manage stress. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/health-conditions/heart-health/manage-stress?_label_=Get+more+ideas+for+how+to+manage+stress\">Get more ideas for how to manage stress</a>. </span></span></p>\r\n"
+                }
+            ]
+        },
+        "MoreInfoItems": null,
+        "HealthfinderLogo": "https://health.gov/themes/custom/healthfinder/images/MyHF.svg",
+        "HealthfinderUrl": "https://health.gov/myhealthfinder"
+    },
+    {
+        "Type": "Topic",
+        "Id": "327",
+        "Title": "Get Enough Folic Acid",
+        "Shortdesc": "Globally incubate standards compliant channels before scalable benefits. Quickly disseminate",
+        "TranslationId": "327",
+        "TranslationTitle": "",
+        "Categories": "Nutrition, Nutrition and Physical Activity",
+        "Populations": "",
+        "MyHFTitle": "",
+        "MyHFDescription": "",
+        "MyHFCategory": "",
+        "MyHFCategoryHeading": "",
+        "LastUpdate": "1568049045",
+        "ImageUrl": "https://health.gov/sites/default/files/2020-01/18.jpg",
+        "ImageAlt": "Get Enough Folic Acid",
+        "AccessibleVersion": "https://health.gov/myhealthfinder/topics/everyday-healthy-living/nutrition/get-enough-folic-acid",
+        "RelatedItems": {
+            "RelatedItem": [
+                {
+                    "Type": "Topic",
+                    "Id": "30530",
+                    "Title": "Get Enough Calcium",
+                    "Url": "https://health.gov/myhealthfinder/topics/everyday-healthy-living/nutrition/get-enough-calcium"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30583",
+                    "Title": "Eat Healthy During Pregnancy: Quick tips",
+                    "Url": "https://health.gov/myhealthfinder/topics/pregnancy/nutrition-and-physical-activity/eat-healthy-during-pregnancy-quick-tips"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30539",
+                    "Title": "Eat Healthy",
+                    "Url": "https://health.gov/myhealthfinder/topics/health-conditions/diabetes/eat-healthy"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30548",
+                    "Title": "Have a Healthy Pregnancy",
+                    "Url": "https://health.gov/myhealthfinder/topics/pregnancy/doctor-and-midwife-visits/have-healthy-pregnancy"
+                }
+            ]
+        },
+        "Sections": {
+            "section": [
+                {
+                    "Title": "The Basics: Overview",
+                    "Description": "",
+                    "Content": "<p>All women who are able to get pregnant or planning to get pregnant need 400 micrograms (mcg) of folic acid every day. Folic acid is found in some vitamins and foods like breakfast cereal or bread that have folic acid added.</p>\r\n\r\n<h3>Why is folic acid important?</h3>\r\n\r\n<p>Everyone needs folic acid, but it’s especially important if you are pregnant or may become pregnant. Folic acid is a vitamin that can prevent birth defects.</p>\r\n\r\n<p>Getting enough folic acid is important even when you aren’t planning to get pregnant. It’s needed during the first few weeks of pregnancy, often before a woman knows she’s pregnant.</p>\r\n\r\n<p>Talk with your doctor about folic acid.&nbsp;</p>\r\n"
+                },
+                {
+                    "Title": "The Basics: Foods and Vitamins",
+                    "Description": "",
+                    "Content": "<h3>How can I get enough folic acid?</h3>\r\n\r\n<p>Getting enough folic acid every day is easy. You can eat foods like breakfast cereal or bread that have folic acid added. Or you can take a vitamin with folic acid.</p>\r\n\r\n<h4>Look for breakfast cereal with folic acid.</h4>\r\n\r\n<p>Check the Nutrition Facts label on the side of the box to see how much folic acid the cereal has. Choose cereal that has 100% DV (Daily Value) of folic acid.</p>\r\n\r\n<h4>Take a vitamin with folic acid.</h4>\r\n\r\n<p>You can take a multivitamin or a pill that has only folic acid. Vitamins and folic acid pills can be found at most pharmacies and grocery stores.&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.womenshealth.gov/a-z-topics/folic-acid?_hash_=11&_label_=Get+tips+for+choosing+a+vitamin+with+folic+acid\" id=\"anch_37\">Get tips for choosing a vitamin with folic acid</a>.</p>\r\n"
+                },
+                {
+                    "Title": "Take Action: Check Labels",
+                    "Description": "",
+                    "Content": "<p>It’s easy to get the folic acid you need. Just eat a bowl of cereal with 100% DV of folic acid – or take a vitamin with 100% DV of folic acid – every day.</p>\r\n\r\n<h3>Check the label.</h3>\r\n\r\n<p>When you are at the grocery store, look for foods with folic acid in them. Choose cereal that has 100% DV of folic acid.</p>\r\n\r\n<p>Folic acid is also in foods like enriched breads, pastas, and other foods made with grains. Check the Nutrition Facts label.</p>\r\n\r\n<p>If you buy vitamins, be sure to check the label for folic acid. This label shows a vitamin with 100% DV of folic acid.</p>\r\n\r\n<drupal-entity data-embed-button=\"media_entity_embed\" data-entity-embed-display=\"entity_reference:media_thumbnail\" data-entity-embed-display-settings=\"{&quot;image_style&quot;:&quot;&quot;,&quot;image_link&quot;:&quot;&quot;}\" data-entity-type=\"media\" data-entity-uuid=\"2f2dd760-be1f-43f0-8c5f-fea90372617b\" data-langcode=\"en\"></drupal-entity>\r\n"
+                },
+                {
+                    "Title": "Take Action: Vitamin Tips",
+                    "Description": "",
+                    "Content": "<h3>If you take a vitamin, make it easy to remember.</h3>\r\n\r\n<ul>\r\n\t<li>Take it at the same time every day. For example, take it when you brush your teeth in the morning or when you eat breakfast.</li>\r\n\t<li>Leave the vitamin bottle somewhere you will notice it every day, like on the kitchen counter.</li>\r\n</ul>\r\n\r\n<h4>What about cost?</h4>\r\n\r\n<p>The&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.healthcare.gov/health-care-law-protections/?_label_=Affordable+Care+Act\" id=\"anch_42\">Affordable Care Act</a>, the health care reform law passed in 2010, requires most health plans to cover folic acid supplements (pills). Depending on your insurance, you may be able to get folic acid supplements at no cost to you.</p>\r\n\r\n<p>Talk to your insurance company to find out what’s included in your plan. For information about other services covered by the Affordable Care Act,&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.healthcare.gov/what-are-my-preventive-care-benefits?_label_=visit+HealthCare.gov\" id=\"anch_43\">visit HealthCare.gov</a>.</p>\r\n"
+                },
+                {
+                    "Title": "Take Action: Eat Healthy",
+                    "Description": "",
+                    "Content": "<h3>Eat healthy.</h3>\r\n\r\n<p><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/myhealthfinder/topics/health-conditions/diabetes/eat-healthy?_label_=Eating+healthy\" id=\"anch_46\">Eating healthy</a>&nbsp;means following a healthy eating pattern that includes a variety of nutritious foods and drinks. It also means getting the number of calories that’s right for you (not eating too much or too little).</p>\r\n\r\n<p>Use your calories to eat a variety of foods. To eat healthy, be sure to choose:</p>\r\n\r\n<ul>\r\n\t<li>Vegetables</li>\r\n\t<li>Fruits</li>\r\n\t<li>Whole grains</li>\r\n\t<li>Fat-free or low-fat dairy products</li>\r\n\t<li>A variety of foods with protein, including seafood, lean meats and poultry, eggs, beans, peas, nuts, seeds, and soy products</li>\r\n</ul>\r\n\r\n<h4>Eat foods with folate, too.</h4>\r\n\r\n<p>Many healthy foods also have folate (a type of folic acid that is found&nbsp;naturally in some foods).</p>\r\n\r\n<p>In addition to eating cereal with&nbsp;100% DV of folic acid or taking a vitamin with 100% DV of folic acid, it’s important for women to eat foods with folate, such as:</p>\r\n\r\n<ul>\r\n\t<li>Spinach and other leafy greens</li>\r\n\t<li>Asparagus</li>\r\n\t<li>Oranges and orange juice</li>\r\n\t<li>Beans and peas</li>\r\n</ul>\r\n\r\n<p><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/ods.od.nih.gov/factsheets/Folate-HealthProfessional/?_hash_=h3&_label_=Check+out+this+list+of+foods+with+folic+acid+and+folate\" id=\"anch_47\">Check out this list of foods with folic acid and folate</a>.</p>\r\n"
+                }
+            ]
+        },
+        "MoreInfoItems": null,
+        "HealthfinderLogo": "https://health.gov/themes/custom/healthfinder/images/MyHF.svg",
+        "HealthfinderUrl": "https://health.gov/myhealthfinder"
+    },
+    {
+        "Type": "Topic",
+        "Id": "329",
+        "Title": "Lower Your Risk of Falling",
+        "Shortdesc": "Credibly reintermediate backend ideas for cross-platform models. Continually",
+        "TranslationId": "329",
+        "TranslationTitle": "",
+        "Categories": "Safety",
+        "Populations": "",
+        "MyHFTitle": "",
+        "MyHFDescription": "",
+        "MyHFCategory": "",
+        "MyHFCategoryHeading": "",
+        "LastUpdate": "1633632238",
+        "ImageUrl": "https://health.gov/sites/default/files/2020-01/lyrf.jpg",
+        "ImageAlt": "Lower Your Risk of Falling",
+        "AccessibleVersion": "https://health.gov/myhealthfinder/topics/everyday-healthy-living/safety/lower-your-risk-falling",
+        "RelatedItems": {
+            "RelatedItem": [
+                {
+                    "Type": "Topic",
+                    "Id": "534",
+                    "Title": "Get a Bone Density Test",
+                    "Url": "https://health.gov/myhealthfinder/topics/doctor-visits/screening-tests/get-bone-density-test"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30607",
+                    "Title": "Calcium: Shopping list",
+                    "Url": "https://health.gov/myhealthfinder/topics/everyday-healthy-living/nutrition/calcium-shopping-list"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30591",
+                    "Title": "Oral Health for Older Adults: Quick Tips",
+                    "Url": "https://health.gov/myhealthfinder/topics/doctor-visits/regular-checkups/oral-health-older-adults-quick-tips"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30759",
+                    "Title": "Preventing Falls: Conversation Starters",
+                    "Url": "https://health.gov/myhealthfinder/topics/everyday-healthy-living/safety/preventing-falls-conversation-starters"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30595",
+                    "Title": "Preventing Osteoporosis: Questions for the doctor",
+                    "Url": "https://health.gov/myhealthfinder/topics/doctor-visits/talking-doctor/preventing-osteoporosis-questions-doctor"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30616",
+                    "Title": "Stay Active As You Get Older: Quick tips",
+                    "Url": "https://health.gov/myhealthfinder/topics/health-conditions/obesity/stay-active-you-get-older-quick-tips"
+                }
+            ]
+        },
+        "Sections": {
+            "section": [
+                {
+                    "Title": "The Basics: Overview",
+                    "Description": "",
+                    "Content": "<p><span><span><span><span><span><span><span><span>You can make small changes to help prevent falls. More than 1 in 4&nbsp;older adults&nbsp;fall each year. Falling can lead to broken bones, trouble getting around, and other problems — especially if you’re age 65 or older.</span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span>A fracture (broken bone) can cause pain and disability. It can also make it hard to do everyday activities without help, like cooking or taking a shower. Broken hips may lead to serious health problems&nbsp;— and even death.</span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span>The good news is there are lots of things you can do to lower your risk of falling. Take these steps:</span></span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>Talk with&nbsp;your doctor about falls and how to prevent them</span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>Do exercises to improve your balance and strength</span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>Review all medicines with your doctor or pharmacist —&nbsp;some medicines can make you dizzy or&nbsp;sleepy and cause you to fall</span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>Get your vision checked by an eye doctor every 1 to 2 years — and be sure to update your glasses or contact lenses when your vision changes</span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>Make your home safer —&nbsp;for example, add grab bars inside and outside your bathtub or shower and put railings on both sides of stairs</span></span></span></span></li>\r\n</ul>\r\n"
+                },
+                {
+                    "Title": "The Basics: Am I at Risk?",
+                    "Description": "",
+                    "Content": "<h3>Am I at risk of falling?</h3>\r\n\r\n<p><span><span><span><span><span><span><span><span>As people age, poor balance and weak muscles can lead to falls and fractures. Most falls happen when older adults are&nbsp;doing everyday activities like walking.</span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span>Some older adults also have vision problems or medical conditions that can make a fall more likely. For example, diabetes can reduce feeling in your feet and a stroke can affect your balance. These conditions can make you more likely to fall.</span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span>You may be more likely to fall if you:</span></span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>Have fallen in the past year</span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>Have a health condition that makes it hard to walk or affects your balance, like diabetes or heart disease</span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>Have trouble walking, getting up from a chair, or stepping up onto a curb</span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>Take many different medicines, especially medicines to help you relax or sleep</span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span><span><span><span>Have trouble seeing or have a vision problem like cataracts or glaucoma</span></span></span></span></span></span></span></li>\r\n</ul>\r\n\r\n<p><span><span><span><span><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.cdc.gov/steadi/pdf/STEADI-Brochure-StayIndependent-508.pdf?_label_=Use+this+checklist+to+find+out+if+you%E2%80%99re+at+risk+for+falling%26nbsp%3B%5BPDF+-+1.8+MB%5D\">Use this checklist to find out if you’re at risk for falling&nbsp;[PDF - 1.8 MB]</a>.</span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span>If you’re worried about falling, talk to your doctor or nurse about how balance exercises and physical therapy can help.&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.nia.nih.gov/health/prevent-falls-and-fractures?_label_=Find+out+more+about+preventing+falls+and+fractures\">Find out more about preventing falls and fractures</a>.</span></span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "Take Action: Get Active",
+                    "Description": "",
+                    "Content": "<p><span><span><span><span><span><span><span><span>Many falls are preventable. Follow these steps to lower your risk of falling.</span></span></span></span></span></span></span></span></p>\r\n\r\n<h3>Get active.</h3>\r\n\r\n<p><span><span><span><span><span><span><span><span>Staying active can help you feel better, improve your balance, and make your legs stronger. Learn more:</span></span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/health-conditions/obesity/stay-active-you-get-older-quick-tips?_label_=Get+tips+for+staying+active+as+you+get+older\">Get tips for staying active as you get older</a></span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/sites/default/files/2019-11/PAG_MYW_OlderAdults_FS.pdf?_label_=Find+out+how+staying+active+can+help+you+stay+healthy%26nbsp%3B%5BPDF+-+1.1+MB%5D\">Find out how staying active can help you stay healthy&nbsp;[PDF - 1.1 MB]</a></span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/order.nia.nih.gov/sites/default/files/2018-07/workout-to-go.pdf?_gl=1*1i26dwx*_ga*OTUwMjg0MTk0LjE2MjgyMDg1NDE.*_ga_TK3CE80DBZ*MTYyODcxOTE3OS45LjEuMTYyODcxOTg3Mi4xNA&_label_=Check+out+this+free+workout+guide+for+older+adults+%5BPDF+-+1.6+MB%5D\">Check out this free workout guide for older adults [PDF - 1.6 MB]</a></span></span></span></span></li>\r\n</ul>\r\n\r\n<h3>Improve your balance.</h3>\r\n\r\n<p><span><span><span><span><span><span><span><span>Exercises that improve your balance can help prevent falls. For example, tai chi is&nbsp;a mind-body exercise that can help with balance. You can:</span></span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>Check with your local community or senior center for physical activity classes that can help your balance</span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.nia.nih.gov/health/four-types-exercise-can-improve-your-health-and-physical-ability?_hash_=balance&_label_=Try+these+simple+exercises+to+improve+your+balance\">Try these simple exercises to improve your balance</a></span></span></span></span></li>\r\n</ul>\r\n\r\n<h3>Build your muscle strength.&nbsp;</h3>\r\n\r\n<p>Do muscle-strengthening activities at least 2 days a week. These include lifting weights or using resistance bands (long, stretchy rubber strips).</p>\r\n\r\n<p><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.nia.nih.gov/health/four-types-exercise-can-improve-your-health-and-physical-ability?_hash_=strength&_label_=Try+these+strength+exercises+at+home\">Try these strength exercises at home</a>.</p>\r\n"
+                },
+                {
+                    "Title": "Take Action: See a Doctor",
+                    "Description": "",
+                    "Content": "<p><span><span><span><span><span><span><span><span>There’s a lot your doctor can do to help keep you safe from falls. Talk with your doctor about your risk of&nbsp;falling.</span></span></span></span></span></span></span></span></p>\r\n\r\n<h3>Talk with your doctor about using medicines safely.</h3>\r\n\r\n<p><span><span><span><span><span><span><span><span>Using medicines safely&nbsp;can help prevent falls. Some medicines can make you sleepy or dizzy and cause you to fall.&nbsp;</span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span>Take all of your medicines (including over-the-counter medicines) to a doctor or pharmacist and ask if any of them could increase your risk of falling.</span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/everyday-healthy-living/safety/use-medicines-safely?_label_=Learn+more+about+using+medicines+safely\">Learn more about using medicines safely</a>. You can also <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/medlineplus.gov/ency/patientinstructions/000254.htm?_label_=print+this+list+of+questions+to+ask+your+doctor+about+preventing+falls\">print this list of questions to ask your doctor about preventing falls</a>&nbsp;<span class=\"MsoHyperlink\">and take it with you to your next appointment</span>.</span></span></span></span></span></span></span></span></p>\r\n\r\n<h3>Get your vision checked.</h3>\r\n\r\n<p>Your vision changes as you get older. Poor vision can increase your chances of falling.</p>\r\n\r\n<p><span><span><span><span><span><span><span><span>Get your eyes tested&nbsp;every 1 to 2 years to make sure you’re wearing glasses or contact lenses with the right prescription strength. Be sure to update your glasses or contacts if your prescription has changed. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.cdc.gov/visionhealth/resources/features/keep-eye-on-vision-health.html?_label_=Read+more+about+keeping+your+vision+healthy\">Read more about keeping your vision healthy</a>. </span></span></span></span></span></span></span></span></p>\r\n\r\n<h3>Get a bone density test.</h3>\r\n\r\n<p><span><span><span><span><span><span><span><span>If you’re a woman age 65 or older,&nbsp;get a bone density test&nbsp;to measure how strong your bones are. If you’re a woman age 64 or younger and you have gone through menopause, ask your doctor if you need a bone density test. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/doctor-visits/screening-tests/get-bone-density-test?_label_=Learn+more+about+bone+density+tests\">Learn more about bone density tests</a>. </span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span>If you have weak bones (osteoporosis), ask your doctor or nurse what steps you can take to stop bone loss and lower your risk of fractures. </span></span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "Take Action: Home Safety",
+                    "Description": "",
+                    "Content": "<h3>Help prevent falls at home.</h3>\r\n\r\n<p><span><span><span><span><span><span><span><span>About half of all falls happen inside the home. Take these steps to make your home safer: </span></span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>Have railings put on both sides of all stairs&nbsp;inside and outside of your home</span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>Have grab bars put inside and outside your bathtub or shower and next to the toilet</span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>Use non-slip mats in the bathtub or shower</span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>Remove small rugs or use double-sided tape to keep rugs from slipping</span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>Use bright lights throughout your home, especially on the stairs</span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>Keep stairs and places where you walk clear of clutter —&nbsp;pick up or move things you can trip over, like cords, papers, shoes, or books</span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>Keep kitchen items you use often in easy-to-reach cabinets or shelves</span></span></span></span></li>\r\n</ul>\r\n\r\n<p><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.cdc.gov/steadi/pdf/STEADI-Brochure-CheckForSafety-508.pdf?_label_=Use+this+checklist+to+help+prevent+falls+at+home\">Use this checklist to help prevent falls at home</a>.&nbsp;</p>\r\n\r\n<p>And be sure to follow these safety tips:</p>\r\n\r\n<ul>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>Always wear shoes with non-slip soles, even inside your home —&nbsp;don’t walk barefoot or wear slippers or socks instead of shoes</span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>When you're getting out of a chair, stand up slowly</span></span></span></span></li>\r\n\t<li class=\"MsoListBullet\"><span><span><span><span>When you're getting out of bed, sit up first and then stand up slowly</span></span></span></span></li>\r\n</ul>\r\n"
+                },
+                {
+                    "Title": "Take Action: Healthy Habits",
+                    "Description": "",
+                    "Content": "<h3>Get enough calcium.</h3>\r\n\r\n<p><span><span><span><span><span><span><span><span>Getting enough calcium can help keep your bones strong and make them less likely to break. You can:</span></span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/everyday-healthy-living/nutrition/get-enough-calcium?_label_=Learn+how+to+get+enough+calcium\">Learn how to get enough calcium</a></span></span></span></span></li>\r\n\t<li><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/everyday-healthy-living/nutrition/calcium-shopping-list?_label_=Check+out+this+shopping+list+of+foods+high+in+calcium\">Check out this shopping list of foods high in calcium</a></span></span></span></span></li>\r\n</ul>\r\n\r\n<h3>Get plenty of sleep.</h3>\r\n\r\n<p><span><span><span><span><span><span><span><span>Getting enough sleep can help you be more alert so you’re less likely to fall. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/everyday-healthy-living/mental-health-and-relationships/get-enough-sleep?_label_=Find+tips+for+getting+enough+sleep\">Find tips for getting enough sleep</a>.</span></span></span></span></span></span></span></span></p>\r\n\r\n<h3>Drink alcohol only in moderation.</h3>\r\n\r\n<p><span><span><span><span><span><span><span><span>Alcohol can increase your risk of falling. If you choose to drink alcohol, it’s important to drink only in moderation to help you stay safe and avoid injuries. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/health-conditions/heart-health/drink-alcohol-only-moderation?_label_=Read+about+drinking+in+moderation\">Read about drinking in moderation</a>.</span></span></span></span></span></span></span></span></p>\r\n\r\n<h3>Are you worried about a loved one’s risk of falling?</h3>\r\n\r\n<p><span><span><span><span><span><span><span><span>If you’re a caregiver, there’s a lot you can do to protect your loved ones:</span></span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.cdc.gov/steadi/pdf/STEADI-CaregiverBrochure.pdf?_label_=Check+out+this+resource+on+helping+loved+ones+prevent+falls\">Check out this resource on helping loved ones prevent falls</a></span></span></span></span></li>\r\n\t<li><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/everyday-healthy-living/safety/preventing-falls-conversation-starters?_label_=Use+these+tips+to+start+a+conversation+about+preventing+falls\">Use these tips to start a conversation about preventing falls</a></span></span></span></span></li>\r\n</ul>\r\n"
+                }
+            ]
+        },
+        "MoreInfoItems": null,
+        "HealthfinderLogo": "https://health.gov/themes/custom/healthfinder/images/MyHF.svg",
+        "HealthfinderUrl": "https://health.gov/myhealthfinder"
+    },
+    {
+        "Type": "Topic",
+        "Id": "350",
+        "Title": "Get Tested for Chlamydia and Gonorrhea",
+        "Shortdesc": "Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary",
+        "TranslationId": "350",
+        "TranslationTitle": "",
+        "Categories": "HIV and Other STDs, Screening Tests, Sexual Health",
+        "Populations": "",
+        "MyHFTitle": "",
+        "MyHFDescription": "",
+        "MyHFCategory": "",
+        "MyHFCategoryHeading": "",
+        "LastUpdate": "1623348824",
+        "ImageUrl": "https://health.gov/sites/default/files/2020-01/shutterstock_221865748_0.jpg",
+        "ImageAlt": "A man and a woman sitting on a couch and talking",
+        "AccessibleVersion": "https://health.gov/myhealthfinder/topics/health-conditions/hiv-and-other-stds/get-tested-chlamydia-and-gonorrhea",
+        "RelatedItems": {
+            "RelatedItem": [
+                {
+                    "Type": "Topic",
+                    "Id": "30538",
+                    "Title": "Choose the Right Birth Control",
+                    "Url": "https://health.gov/myhealthfinder/topics/everyday-healthy-living/sexual-health/choose-right-birth-control"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30564",
+                    "Title": "Get Tested for HIV",
+                    "Url": "https://health.gov/myhealthfinder/topics/health-conditions/hiv-and-other-stds/get-tested-hiv"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30613",
+                    "Title": "HIV Testing: Questions for the doctor",
+                    "Url": "https://health.gov/myhealthfinder/topics/health-conditions/hiv-and-other-stds/hiv-testing-questions-doctor"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30614",
+                    "Title": "STD Testing: Conversation Starters",
+                    "Url": "https://health.gov/myhealthfinder/topics/health-conditions/hiv-and-other-stds/std-testing-conversation-starters"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30612",
+                    "Title": "Testing for Syphilis: Questions for the doctor",
+                    "Url": "https://health.gov/myhealthfinder/topics/health-conditions/hiv-and-other-stds/testing-syphilis-questions-doctor"
+                }
+            ]
+        },
+        "Sections": {
+            "section": [
+                {
+                    "Title": "The Basics: Overview",
+                    "Description": "",
+                    "Content": "<p>Chlamydia&nbsp;and gonorrhea are sexually transmitted diseases (STDs) that you can get during vaginal, anal, or oral sex. A pregnant woman can also pass these STDs to her baby during birth.</p>\r\n\r\n<p>STDs are also sometimes called STIs (sexually transmitted infections).</p>\r\n\r\n<h3><strong>How do I know if I have an STD?</strong></h3>\r\n\r\n<p>Getting tested is the only way to know for sure if you have an STD. Most people who have an STD don’t feel sick or have any symptoms.</p>\r\n\r\n<p>It’s also important to talk with a doctor or nurse if someone you recently had sex with has an STD.</p>\r\n\r\n<h3><strong>Is there a cure for chlamydia and gonorrhea?</strong></h3>\r\n\r\n<p>Yes. Chlamydia and gonorrhea can both be cured with the right treatment. If these STDs aren’t treated, they can cause serious health problems, like making it difficult or impossible for a woman to get pregnant.</p>\r\n\r\n<p>If you have an STD, it’s important to get treatment right away. It’s also important to tell anyone you’ve had sex with that you have an STD so they can get treated, too. This can&nbsp;help protect you from getting infected again.</p>\r\n"
+                },
+                {
+                    "Title": "The Basics: Who Needs Testing?",
+                    "Description": "",
+                    "Content": "<h3><strong>Who needs to get tested for chlamydia and&nbsp;</strong><strong>gonorrhea</strong><strong>?</strong></h3>\r\n\r\n<p>The recommendations for getting tested&nbsp;for chlamydia and for gonorrhea are the same.</p>\r\n\r\n<h4>For women:</h4>\r\n\r\n<ul>\r\n\t<li>If you're age 24 or younger and having sex, get tested once every year</li>\r\n\t<li>If you're age 25 or older, get tested if you have more than 1&nbsp;sex partner, a new sex partner, or a sex partner with an STD</li>\r\n</ul>\r\n\r\n<h4>For men:</h4>\r\n\r\n<ul>\r\n\t<li>Talk with a doctor to find out if you need to get tested for&nbsp;chlamydia, gonorrhea, or other STDs</li>\r\n</ul>\r\n\r\n<h3><strong>What are the signs of chlamydia or gonorrhea?</strong></h3>\r\n\r\n<p>Many people who have chlamydia or gonorrhea don’t have any signs or symptoms.&nbsp;When there are symptoms, chlamydia and gonorrhea cause very similar things.&nbsp;</p>\r\n\r\n<p>Women with symptoms may have:</p>\r\n\r\n<ul>\r\n\t<li>Abnormal discharge (fluid) from the vagina</li>\r\n\t<li>Burning when they urinate (pee)</li>\r\n\t<li>Bleeding between periods</li>\r\n</ul>\r\n\r\n<p>Men with symptoms may have:</p>\r\n\r\n<ul>\r\n\t<li>Abnormal discharge from the penis</li>\r\n\t<li>Burning when they urinate</li>\r\n\t<li>Painful or swollen testicles (though this symptom is less common)</li>\r\n</ul>\r\n"
+                },
+                {
+                    "Title": "The Basics: What to Expect",
+                    "Description": "",
+                    "Content": "<h3><strong>How do doctors test for chlamydia and gonorrhea?</strong></h3>\r\n\r\n<p>A doctor or nurse can test your urine for both chlamydia and gonorrhea. Sometimes, the doctor might take&nbsp;a sample from the vagina, penis, rectum, or throat instead.&nbsp;The test is easy and painless.</p>\r\n\r\n<p><span><span><span><span><span><span><span>Learn more about chlamydia:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/www.cdc.gov/std/chlamydia/STDFact-Chlamydia.htm?_label_=Chlamydia+facts\">Chlamydia facts</a></span></span></span></li>\r\n\t<li><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.womenshealth.gov/a-z-topics/chlamydia?_label_=Women+and+chlamydia\">Women and chlamydia</a></span></span></span></li>\r\n</ul>\r\n\r\n<p><span><span><span><span><span><span><span>Learn more about gonorrhea:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/www.cdc.gov/std/Gonorrhea/STDFact-gonorrhea.htm?_label_=Gonorrhea+facts\">Gonorrhea facts</a></span></span></span></li>\r\n\t<li><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.womenshealth.gov/a-z-topics/gonorrhea?_label_=Women+and+gonorrhea\">Women and gonorrhea</a></span></span></span></li>\r\n</ul>\r\n"
+                },
+                {
+                    "Title": "Take Action: Get Tested",
+                    "Description": "",
+                    "Content": "<p>Get tested for chlamydia and gonorrhea if you're at risk. Talk with your partner about getting tested, too.</p>\r\n\r\n<h3><strong>Make an appointment at a health center or clinic.</strong></h3>\r\n\r\n<p>If you think you may be at risk, talk with your doctor about getting tested for chlamydia and gonorrhea.&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/myhealthfinder/topics/health-conditions/hiv-other-stds/hiv-testing-questions-doctor?_label_=Be+sure+to+ask+about+getting+tested+for+HIV%2C+too\" id=\"anch_45\">Be sure to ask about getting tested for HIV, too</a>.</p>\r\n\r\n<p>To find an STD clinic near you:</p>\r\n\r\n<ul>\r\n\t<li><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/gettested.cdc.gov/?_label_=Enter+your+ZIP+code+to+find+a+local+testing+site\" id=\"anch_46\">Enter your ZIP code to find a local testing site</a></li>\r\n\t<li>Call 1-800-CDC-INFO (1-800-232-4636)</li>\r\n</ul>\r\n\r\n<h4>What about cost?</h4>\r\n\r\n<p>Under the Affordable Care Act, insurance plans must cover some STD testing and prevention counseling. Depending on your insurance plan, you may be able to get these services at no cost to you. Talk to your insurance company to find out more.</p>\r\n\r\n<p><span><span><span><span><span><span><span>Medicare may also cover some STD testing and counseling at no cost for people who are at risk. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.medicare.gov/coverage/sexually-transmitted-infection-screenings-counseling?_label_=Learn+about+Medicare+coverage+for+STD+testing+and+counseling\">Learn about Medicare coverage for STD testing and counseling</a>.</span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span>If you don’t have insurance, you may still be able to get free or low-cost STD testing. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/gettested.cdc.gov/?_label_=Use+this+resource+to+find+free+testing+near+you\">Use this resource to find free testing near you</a>.</span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span>To learn more, check out these resources:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.healthcare.gov/coverage/preventive-care-benefits/?_label_=Free+preventive+care%26nbsp%3Bcovered+by+the+Affordable+Care+Act\">Free preventive care&nbsp;covered by the Affordable Care Act</a></span></span></span></li>\r\n\t<li><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.healthcare.gov/health-care-law-protections/?_label_=How+the+Affordable+Care+Act+protects+you\">How the Affordable Care Act protects you</a></span></span></span></li>\r\n\t<li><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/marketplace.cms.gov/technical-assistance-resources/c2c-roadmap.pdf?_label_=Understanding+your+health+insurance+and+how+to+use+it+%5BPDF+-+698%26nbsp%3BKB%5D+\">Understanding your health insurance and how to use it [PDF - 698&nbsp;KB] </a></span></span></span></li>\r\n</ul>\r\n"
+                },
+                {
+                    "Title": "Take Action: Protect Yourself",
+                    "Description": "",
+                    "Content": "<h3><strong>Stay safe.</strong></h3>\r\n\r\n<p>The best way to protect yourself from STDs is to not have vaginal, anal, or oral sex. Wait to have sex until you and your partner have tested negative for STDs.</p>\r\n\r\n<p>Here are some other ways to protect yourself from STDs:</p>\r\n\r\n<ul>\r\n\t<li><span><span><span>Use a latex condom the right way&nbsp;every time you have vaginal, anal, or oral sex.&nbsp;</span></span></span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.cdc.gov/condomeffectiveness/index.html?_label_=Learn+how+to+use+a+condom+the+right+way\">Learn how to use a condom the right way</a></span></span></span></li>\r\n\t<li>Make sure you and your partner have been tested for STDs</li>\r\n\t<li>If you know that you or your partner has an STD, get treated before having sex</li>\r\n</ul>\r\n\r\n<p><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/myhealthfinder/topics/everyday-healthy-living/mental-health-relationships/std-testing?_label_=Get+tips+on+talking+with+your+partner+about+STD+testing\" id=\"anch_52\">Get tips on talking with your partner about STD testing</a>.</p>\r\n\r\n<h3><strong>If you're pregnant, talk with your doctor about STD testing.</strong></h3>\r\n\r\n<p>Having chlamydia, gonorrhea, or another STD while you're pregnant can be very dangerous for you and your baby.&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/www.cdc.gov/std/pregnancy/STDFact-Pregnancy.htm?_label_=Find+out+more+about+STDs+and+pregnancy\" id=\"anch_53\">Find out more about STDs and pregnancy</a>.</p>\r\n"
+                }
+            ]
+        },
+        "MoreInfoItems": null,
+        "HealthfinderLogo": "https://health.gov/themes/custom/healthfinder/images/MyHF.svg",
+        "HealthfinderUrl": "https://health.gov/myhealthfinder"
+    },
+    {
+        "Type": "Topic",
+        "Id": "510",
+        "Title": "Make the Most of Your Baby’s Visit to the Doctor (Ages 0 to 11 Months) ",
+        "Shortdesc": "Quickly communicate enabled technology and turnkey leadership skills. Uniquely enable accurate supply chains rather than frictionless technology.",
+        "TranslationId": "510",
+        "TranslationTitle": "",
+        "Categories": "Checkups for Children and Teens",
+        "Populations": "",
+        "MyHFTitle": "",
+        "MyHFDescription": "",
+        "MyHFCategory": "",
+        "MyHFCategoryHeading": "",
+        "LastUpdate": "1630608899",
+        "ImageUrl": "https://health.gov/sites/default/files/2020-01/mtmbvd0.jpg",
+        "ImageAlt": "Make the Most of Your Baby’s Visit to the Doctor (Ages 0 to 11 Months)",
+        "AccessibleVersion": "https://health.gov/myhealthfinder/topics/doctor-visits/regular-checkups/make-most-your-babys-visit-doctor-ages-0-11-months",
+        "RelatedItems": {
+            "RelatedItem": [
+                {
+                    "Type": "Topic",
+                    "Id": "551",
+                    "Title": "Protect Yourself from Seasonal Flu",
+                    "Url": "https://health.gov/myhealthfinder/topics/doctor-visits/shots-vaccines/protect-yourself-seasonal-flu"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30550",
+                    "Title": "Breastfeed Your Baby",
+                    "Url": "https://health.gov/myhealthfinder/topics/pregnancy/doctor-and-midwife-visits/breastfeed-your-baby"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "530",
+                    "Title": "Take Care of Your Child's Teeth",
+                    "Url": "https://health.gov/myhealthfinder/topics/doctor-visits/regular-checkups/take-care-your-childs-teeth"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30583",
+                    "Title": "Eat Healthy During Pregnancy: Quick tips",
+                    "Url": "https://health.gov/myhealthfinder/topics/pregnancy/nutrition-and-physical-activity/eat-healthy-during-pregnancy-quick-tips"
+                }
+            ]
+        },
+        "Sections": {
+            "section": [
+                {
+                    "Title": "The Basics: Overview",
+                    "Description": "",
+                    "Content": "<p><span><span><span><span><span><span><span><span><span>Babies need to go to the doctor or nurse for a “well-baby visit” 6 times before their first birthday.</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>A well-baby visit is when you take your baby to the doctor to make sure they’re healthy and developing normally. This is different from other visits for sickness or injury.</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>At a well-baby visit, the doctor or nurse can help catch any problems early, when they may be easier to treat. You’ll also have a chance to ask any questions you have about caring for your baby.</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>Learn what to expect so you can make the most of each well-baby visit.</span></span></span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "The Basics: Well-Baby Visits",
+                    "Description": "",
+                    "Content": "<h3>How often do I need to take my baby for well-baby visits?</h3>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>Babies need to see the doctor or nurse 6 times before their first birthday. Your baby is growing and changing quickly, so regular visits are&nbsp;important.</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>The first well-baby visit is 2 to 3 days after coming home from the hospital, when the baby is about 3&nbsp;to 5 days old. After that first visit, babies need to see the doctor or nurse when they’re:</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span>1 month old</span></span></span></li>\r\n\t<li><span><span><span>2 months old</span></span></span></li>\r\n\t<li><span><span><span>4 months old</span></span></span></li>\r\n\t<li><span><span><span>6 months old</span></span></span></li>\r\n\t<li><span><span><span>9 months old</span></span></span></li>\r\n</ul>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>If you’re worried about your baby’s health, don’t wait until the next scheduled visit — call the doctor or nurse right away.</span></span></span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "The Basics: Child Development",
+                    "Description": "",
+                    "Content": "<h3><span><span><strong><span><span><span><span><span><span>How do I know if my baby is growing and developing on&nbsp;schedule?</span></span></span></span></span></span></strong></span></span></h3>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>Your baby’s doctor or nurse can help you understand how your baby is developing and learning to do new things — like smile or turn their head to hear your voice. These are sometimes called “developmental milestones.”</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>At each visit, the doctor or nurse will ask you how you’re doing as a parent and what new things your baby is learning to do.&nbsp;</span></span></span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "The Basics: 1 to 2 Months",
+                    "Description": "",
+                    "Content": "<h3><span><span><strong><span><span><span><span><span><span>By age 1 month, most babies:</span></span></span></span></span></span></strong></span></span></h3>\r\n\r\n<ul>\r\n\t<li><span><span><span>Are gaining weight and growing</span></span></span></li>\r\n\t<li><span><span><span>React to sounds</span></span></span></li>\r\n</ul>\r\n\r\n<h3><span><span><strong><span><span><span><span><span><span>By age 2 months, most babies:</span></span></span></span></span></span></strong></span></span></h3>\r\n\r\n<ul>\r\n\t<li><span><span><span>Lift their head when lying on their stomach</span></span></span></li>\r\n\t<li><span><span><span>Pay attention to faces and try to look at their parents</span></span></span></li>\r\n\t<li><span><span><span>Bring their hands to their mouth</span></span></span></li>\r\n\t<li><span><span><span>Make cooing sounds</span></span></span></li>\r\n\t<li><span><span><span>Smile at people</span></span></span></li>\r\n</ul>\r\n\r\n<p><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/www.cdc.gov/ncbddd/actearly/milestones/milestones-2mo.html?_label_=See+a+complete+list+of+milestones+for+kids+age+2+months\">See a complete list of milestones for kids age 2 months</a>.</p>\r\n"
+                },
+                {
+                    "Title": "The Basics: 4 to 6 Months",
+                    "Description": "",
+                    "Content": "<h3><span><span><strong><span><span><span><span><span><span>By age 4 months, most babies:</span></span></span></span></span></span></strong></span></span></h3>\r\n\r\n<ul>\r\n\t<li><span><span><span>Roll over from their stomach to their back</span></span></span></li>\r\n\t<li><span><span><span>Reach for, grab, and hold toys</span></span></span></li>\r\n\t<li><span><span><span>Have different cries for different feelings (like hungry, cranky, or uncomfortable)</span></span></span></li>\r\n\t<li><span><span><span>Start babbling</span></span></span></li>\r\n\t<li><span><span><span>Recognize a parent’s voice or touch</span></span></span></li>\r\n\t<li><span><span><span>Copy some facial expressions and sounds</span></span></span></li>\r\n</ul>\r\n\r\n<p><span><span><span><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.cdc.gov/ncbddd/actearly/milestones/milestones-4mo.html?_label_=%3Cspan%3ESee+a+complete+list+of+milestones+for+kids+age+4+months%3C%2Fspan%3E\"><span>See a complete list of milestones for kids age 4 months</span></a><span>.</span></span></span></span></span></span></span></span></p>\r\n\r\n<h3><span><span><strong><span><span><span><span><span><span>By age 6 months, most babies:</span></span></span></span></span></span></strong></span></span></h3>\r\n\r\n<ul>\r\n\t<li><span><span><span>Begin to sit without support</span></span></span></li>\r\n\t<li><span><span><span>Roll over in both directions (from stomach to back and from back to stomach)</span></span></span></li>\r\n\t<li><span><span><span>Sleep for 6 to 8 hours a night without waking up</span></span></span></li>\r\n\t<li><span><span><span>Respond to their name</span></span></span></li>\r\n\t<li><span><span><span>Show interest in and reach for objects</span></span></span></li>\r\n\t<li><span><span><span>Begin to recognize familiar faces</span></span></span></li>\r\n\t<li><span><span><span>Like to look at themselves in a mirror</span></span></span></li>\r\n</ul>\r\n\r\n<p><span><span><span><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.cdc.gov/ncbddd/actearly/milestones/milestones-6mo.html?_label_=%3Cspan%3ESee+a+complete+list+of%26nbsp%3Bmilestones+for+kids+age+6+months%3C%2Fspan%3E\"><span>See a complete list of&nbsp;milestones for kids age 6 months</span></a><span>.&nbsp;</span></span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "The Basics: 9 Months",
+                    "Description": "",
+                    "Content": "<h3><span><span><strong><span><span><span><span><span><span>By age 9 months, most babies:</span></span></span></span></span></span></strong></span></span></h3>\r\n\r\n<ul>\r\n\t<li><span><span><span>Make sounds like “bababa”</span></span></span></li>\r\n\t<li><span><span><span>Play peek-a-boo</span></span></span></li>\r\n\t<li><span><span><span>Sit without support</span></span></span></li>\r\n\t<li><span><span><span>Stand by holding on to something</span></span></span></li>\r\n\t<li><span><span><span>Crawl</span></span></span></li>\r\n</ul>\r\n\r\n<p><span><span><span><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.cdc.gov/ncbddd/actearly/milestones/milestones-9mo.html?_label_=%3Cspan%3ESee+a+complete+list+of%26nbsp%3Bmilestones+for+kids+age+9+months%3C%2Fspan%3E\"><span>See a complete list of&nbsp;milestones for kids age 9 months</span></a><span>.&nbsp;</span></span></span></span></span></span></span></span></p>\r\n\r\n<h3><span><span><strong><span><span><span><span><span><span>What if I'm worried about my baby's development?&nbsp;</span></span></span></span></span></span></strong></span></span></h3>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>Remember, every baby develops a little differently. But if you’re concerned about your child’s growth and development, talk to your baby’s doctor or nurse.&nbsp;</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/www.nlm.nih.gov/medlineplus/infantandnewborndevelopment.html?_label_=%3Cspan%3ELearn+more+about+newborn+and+infant+development%3C%2Fspan%3E\"><span>Learn more about newborn and infant development</span></a><span>.</span></span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "Take Action: Get Ready",
+                    "Description": "",
+                    "Content": "<p><span><span><span><span><span><span><span><span><span>Take these steps to help you and your baby get the most out of well-baby visits.</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<h3><span><span><strong><span><span><span><span><span><span>Gather important information.</span></span></span></span></span></span></strong></span></span></h3>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>Take any medical records you have to the appointment, including a record of vaccines (shots) your baby has received and results from&nbsp;newborn screenings</span></span><span>. </span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/pregnancy/doctor-and-midwife-visits/talk-your-doctor-about-newborn-screening?_label_=%3Cspan%3ERead+about+newborn+screenings%3C%2Fspan%3E\"><span>Read about newborn screenings</span></a><span>.</span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>Make a list of any important changes in your baby’s life since the last doctor’s visit, like:</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span>Being sick</span></span></span></li>\r\n\t<li><span><span><span>Falling or getting injured</span></span></span></li>\r\n\t<li><span><span><span>Starting daycare or getting a new caregiver</span></span></span></li>\r\n</ul>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>Use this tool to&nbsp;</span></span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/phgkb.cdc.gov/FHH/html/index.html?_label_=%3Cspan%3Ekeep+track+of+your+baby%E2%80%99s+family+health+history%3C%2Fspan%3E\"><span>keep track of your baby’s family health history</span></a><span>.</span></span></span></span></span></span></span></span></p>\r\n\r\n<h3><span><span><strong><span><span><span><span><span><span>What about cost?</span></span></span></span></span></span></strong></span></span></h3>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>Under the Affordable Care Act, insurance plans must cover well-child visits. Depending on your insurance plan, you may be able to get well-child visits at no cost to you. Check with your insurance company to find out more.</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>Your child may also qualify for free or low-cost health insurance through Medicaid or the Children’s Health Insurance Program (CHIP). <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.insurekidsnow.gov/coverage/index.html?_label_=Learn+about+coverage+options\">Learn about coverage options</a> for your family.</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>If you don’t have insurance, you may still be able to get free or low-cost well-child visits. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/findahealthcenter.hrsa.gov/?_label_=Find+a+health+center+near+you\">Find a health center near you</a> and ask about well-child visits.</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>To learn more, check out these resources:</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.healthcare.gov/preventive-care-children/?_label_=Free+preventive+care+for+children+covered+by+the+Affordable+Care+Act\">Free preventive care for children covered by the Affordable Care Act</a></li>\r\n\t<li><span><span><span><span><span><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.healthcare.gov/health-care-law-protections/?_label_=How+the+Affordable+Care+Act+protects+you+and+your+family\">How the Affordable Care Act protects you and your family</a></span></span></span></span></span></span></span></span></span></li>\r\n\t<li><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/marketplace.cms.gov/technical-assistance-resources/c2c-roadmap.pdf?_label_=%3Cspan%3E%3Cspan%3E%3Cspan%3E%3Cspan%3E%3Cspan%3E%3Cspan%3E%3Cspan%3E%3Cspan%3E%3Cspan%3EUnderstanding+your+health+insurance+and+how+to+use+it+%5BPDF+-+698+KB%5D%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E\"><span><span><span><span><span><span><span><span><span>Understanding your health insurance and how to use it [PDF - 698 KB]</span></span></span></span></span></span></span></span></span></a></li>\r\n</ul>\r\n"
+                },
+                {
+                    "Title": "Take Action: Ask Questions",
+                    "Description": "",
+                    "Content": "<h3><span><span><strong><span><span><span><span><span><span>Make a list of questions to ask the doctor.</span></span></span></span></span></span></strong></span></span></h3>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>Before the&nbsp;well-baby visit, write down 3 to 5 questions you have. Each well-baby visit is a great time to ask the doctor or nurse any questions about:</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span><span>How your baby is growing and developing</span></span></span></span></li>\r\n\t<li><span><span><span><span>How your baby is sleeping</span></span></span></span></li>\r\n\t<li><span><span><span><span>Breastfeeding your baby</span></span></span></span></li>\r\n\t<li><span><span><span><span>When and how to start giving your baby solid foods</span></span></span></span></li>\r\n\t<li><span><span><span><span>What changes and behaviors to expect in the coming months</span></span></span></span></li>\r\n\t<li><span><span><span><span>How to&nbsp;make sure your home is safe&nbsp;for a growing baby</span></span></span></span></li>\r\n</ul>\r\n\r\n<h4><span><span><span><span><span><span><span><strong><span><span><span><span>Here are some questions you may want to ask:</span></span></span></span></strong></span></span></span></span></span></span></span></h4>\r\n\r\n<ul>\r\n\t<li><span><span><span><span>Is my baby up to date on vaccines?</span></span></span></span></li>\r\n\t<li><span><span><span><span>How can I make sure my baby is getting enough to eat?</span></span></span></span></li>\r\n\t<li><span><span><span><span>Is my baby at a healthy weight?</span></span></span></span></li>\r\n\t<li><span><span><span><span>How can I&nbsp;make sure my baby is sleeping safely&nbsp;— and getting enough sleep?</span></span></span></span></li>\r\n\t<li><span><span><span><span>How can I help my baby develop speech and language skills?</span></span></span></span></li>\r\n\t<li><span><span><span><span>Is it okay for my baby to have screen time?</span></span></span></span></li>\r\n\t<li><span><span><span><span>How do I clean my baby's teeth?</span></span></span></span></li>\r\n</ul>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>Take a notepad, smartphone, or tablet and write down the answers so you can remember them&nbsp;later.</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<h4><span><span><span><span><span><span><span><strong><span><span><span>Ask what to do if your baby gets sick.</span></span></span></strong></span></span></span></span></span></span></span></h4>\r\n\r\n<p><span><span><span><span><span><span><span><span><span><span>Make sure you know how to get in touch with a doctor or nurse when the office is closed. Ask how to reach the doctor on call, or if there's a nurse information service you can call at night or on the weekend.</span></span></span></span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "Take Action: What to Expect",
+                    "Description": "",
+                    "Content": "<h3><span><span><strong><span><span><span><span><span><span>Know what to expect.</span></span></span></span></span></span></strong></span></span></h3>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>During each well-baby visit, the doctor or nurse will ask you about your baby and do a physical exam. The doctor or nurse will then update your baby’s medical history with all of this information.</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<h3><span><span><span><span><span><span><span><strong><span><span><span><span>The doctor or nurse will ask questions about your baby.</span></span></span></span></strong></span></span></span></span></span></span></span></h3>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>The doctor or nurse may ask about:</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span>Behavior — Does your baby copy your movements and sounds?</span></span></span></li>\r\n\t<li><span><span><span>Health — How many diapers does your baby wet each day? Does your baby spend time around people who are smoking or using e-cigarettes (vaping)?</span></span></span></li>\r\n\t<li><span><span><span>Safety —&nbsp;If you live in an older home, has it been inspected for lead? Do you have a safe car seat for your baby?</span></span></span></li>\r\n\t<li><span><span><span>Activities&nbsp;— Does your baby try to roll over? How often do you read to your baby?</span></span></span></li>\r\n\t<li><span><span><span>Eating habits — How often does your baby eat each day? How are you feeding your baby?</span></span></span></li>\r\n\t<li><span><span><span>Family — Do you have any worries about being a parent? Who can you count on to help you take care of your baby?</span></span></span></li>\r\n</ul>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>Your answers to questions like these will help the doctor or nurse make sure your baby is healthy, safe, and developing normally.</span></span></span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "Take Action: Physical Exam",
+                    "Description": "",
+                    "Content": "<h3>The doctor or nurse will also check your baby’s body.</h3>\r\n\r\n<p><span><span><span><span><span><span><span><span><span>To check your baby’s body, the doctor or nurse will:</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span>Measure height, weight, and the size of your baby’s head</span></span></span></li>\r\n\t<li><span><span><span>Take your baby’s temperature</span></span></span></li>\r\n\t<li><span><span><span>Check your baby’s eyes and hearing</span></span></span></li>\r\n\t<li><span><span><span>Check your baby’s body parts (this is called a physical exam)</span></span></span></li>\r\n\t<li><span><span><span>Give your baby shots they need</span></span></span></li>\r\n</ul>\r\n\r\n<p><span><span><span><span><span><span><span><span>Learn more about your baby’s health care:</span></span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20044767?_label_=%3Cspan%3ERead+more+about+what+to+expect+at+your+baby%E2%80%99s+well-baby%26nbsp%3Bvisit%3C%2Fspan%3E\"><span>Read more about what to expect at your baby’s well-baby&nbsp;visit</span></a></span></span></li>\r\n\t<li><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/doctor-visits/shots-vaccines/get-your-childs-shots-schedule?_label_=Find+out+how+to+get+your+baby%E2%80%99s+shots+on+schedule\">Find out how to get your baby’s shots on schedule</a></li>\r\n</ul>\r\n\r\n<p>You may also be interested in:</p>\r\n\r\n<ul>\r\n\t<li><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/pregnancy/doctor-and-midwife-visits/breastfeed-your-baby?_label_=Breastfeed+Your+Baby\">Breastfeed Your Baby</a></li>\r\n\t<li><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/doctor-visits/regular-checkups/take-care-your-childs-teeth?_label_=Take+Care+of+Your+Child%E2%80%99s+Teeth\">Take Care of Your Child’s Teeth</a></li>\r\n\t<li><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/doctor-visits/shots-vaccines/get-your-childs-shots-schedule?_label_=Get+Your+Child%E2%80%99s+Shots+on+Schedule\">Get Your Child’s Shots on Schedule</a></li>\r\n</ul>\r\n"
+                }
+            ]
+        },
+        "MoreInfoItems": null,
+        "HealthfinderLogo": "https://health.gov/themes/custom/healthfinder/images/MyHF.svg",
+        "HealthfinderUrl": "https://health.gov/myhealthfinder"
+    },
+    {
+        "Type": "Topic",
+        "Id": "512",
+        "Title": "Make the Most of Your Child’s Visit to the Doctor (Ages 1 to 4)",
+        "Shortdesc": "It’s helpful to have a provider who is thorough both in the office visit and the follow up contact. I’ve already",
+        "TranslationId": "512",
+        "TranslationTitle": "",
+        "Categories": "Checkups for Children and Teens",
+        "Populations": "",
+        "MyHFTitle": "",
+        "MyHFDescription": "",
+        "MyHFCategory": "",
+        "MyHFCategoryHeading": "",
+        "LastUpdate": "1630609013",
+        "ImageUrl": "https://health.gov/sites/default/files/2020-01/ChildVision.dv755003.jpg",
+        "ImageAlt": "Health care provider looking at young girl's eye",
+        "AccessibleVersion": "https://health.gov/myhealthfinder/topics/doctor-visits/regular-checkups/make-most-your-childs-visit-doctor-ages-1-4",
+        "RelatedItems": {
+            "RelatedItem": [
+                {
+                    "Type": "Topic",
+                    "Id": "30566",
+                    "Title": "Help Your Child Stay at a Healthy Weight",
+                    "Url": "https://health.gov/myhealthfinder/topics/health-conditions/obesity/help-your-child-stay-healthy-weight"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "551",
+                    "Title": "Protect Yourself from Seasonal Flu",
+                    "Url": "https://health.gov/myhealthfinder/topics/doctor-visits/shots-vaccines/protect-yourself-seasonal-flu"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "530",
+                    "Title": "Take Care of Your Child's Teeth",
+                    "Url": "https://health.gov/myhealthfinder/topics/doctor-visits/regular-checkups/take-care-your-childs-teeth"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "541",
+                    "Title": "Get Your Child’s Vision Checked",
+                    "Url": "https://health.gov/myhealthfinder/topics/doctor-visits/screening-tests/get-your-childs-vision-checked"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30608",
+                    "Title": "Healthy Snacks: Quick tips for parents",
+                    "Url": "https://health.gov/myhealthfinder/topics/everyday-healthy-living/nutrition/healthy-snacks-quick-tips-parents"
+                }
+            ]
+        },
+        "Sections": {
+            "section": [
+                {
+                    "Title": "The Basics: Overview",
+                    "Description": "",
+                    "Content": "<p><span><span><span><span><span><span><span><span>Young children need to go to the doctor or nurse for a “well-child visit” 7&nbsp;times between ages 1 and 4.</span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span>A well-child visit is when you take your child to the doctor to make sure they’re healthy and developing normally. This is different from other visits for sickness or injury.</span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span>At a well-child visit, the doctor or nurse can help catch any problems early, when they may be easier to treat. You’ll also have a chance to ask questions about things like your child’s behavior, eating habits, and sleeping habits.</span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span>Learn what to expect so you can make the most of each visit.</span></span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "The Basics: Well-Child Visits",
+                    "Description": "",
+                    "Content": "<h3 class=\"body\"><span><span><span><span><span><span><span><strong>How often do I need to take my child for well-child visits?</strong></span></span></span></span></span></span></span></h3>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>Young children grow quickly, so they need to visit the doctor or nurse regularly to make sure they’re healthy and developing normally.</span></span></span></span></span></span></span></p>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>Children ages 1 to 4 need to see the doctor or nurse when they’re:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"body\"><span><span>12 months old</span></span></li>\r\n\t<li class=\"body\"><span><span>15 months old (1 year and 3 months)</span></span></li>\r\n\t<li class=\"body\"><span><span>18 months old (1 year and 6 months)</span></span></li>\r\n\t<li class=\"body\"><span><span>24 months old (2 years)</span></span></li>\r\n\t<li class=\"body\"><span><span>30 months old (2 years and 6 months)</span></span></li>\r\n\t<li class=\"body\"><span><span>3 years old</span></span></li>\r\n\t<li class=\"body\"><span><span>4 years old</span></span></li>\r\n</ul>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>If you’re worried about your child’s health, don’t wait until the next scheduled&nbsp;visit&nbsp;— call the doctor or nurse right away.</span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "The Basics: Child Development",
+                    "Description": "",
+                    "Content": "<h3>How do I know if my child is growing and developing on schedule?</h3>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>Your child’s doctor or nurse can help you understand how your child is developing and learning to do new things — like walk and talk. These are sometimes called &nbsp;“developmental milestones.”</span></span></span></span></span></span></span></p>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>Every child grows and develops differently. For example, some children will take longer to start talking than others. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/www.nlm.nih.gov/medlineplus/childdevelopment.html?_label_=Learn+more+about+child+development\">Learn more about child development</a>.</span></span></span></span></span></span></span></p>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>At each visit, the doctor or nurse will ask you how you’re doing as a parent and what new things your child is learning to do.</span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "The Basics: Ages 12 to 18 Months",
+                    "Description": "",
+                    "Content": "<h3>By age 12 months, most kids:</h3>\r\n\r\n<ul>\r\n\t<li class=\"body\"><span><span>Have at least 1 tooth</span></span></li>\r\n\t<li class=\"body\"><span><span>Stand up by pulling on a table or chair</span></span></li>\r\n\t<li class=\"body\"><span><span>Walk (either with help or on their own)</span></span></li>\r\n\t<li class=\"body\"><span><span>Try to copy animal sounds</span></span></li>\r\n\t<li class=\"body\"><span><span>Say “mama” and “dada,” plus 1 or 2 other words</span></span></li>\r\n\t<li class=\"body\"><span><span>Follow simple directions, like \"Pick up the toy\"</span></span></li>\r\n</ul>\r\n\r\n<p><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.cdc.gov/ncbddd/actearly/milestones/milestones-1yr.html?_label_=Check+out+this+complete+list+of+milestones+for+kids+age+12+months\">Check out this complete list of milestones for kids age 12 months</a></span><span>.</span></p>\r\n\r\n<h3>By age 15 months, most kids:</h3>\r\n\r\n<ul>\r\n\t<li class=\"body\"><span><span>Bend to reach the floor without falling</span></span></li>\r\n\t<li class=\"body\"><span><span>Put things in a cup</span></span></li>\r\n\t<li class=\"body\"><span><span>Make scribbles with crayons</span></span></li>\r\n\t<li class=\"body\"><span><span>Take toys over to show a parent</span></span></li>\r\n\t<li class=\"body\"><span><span>Listen to a story and look at pictures</span></span></li>\r\n</ul>\r\n\r\n<h3>By age 18 months, most kids:</h3>\r\n\r\n<ul>\r\n\t<li class=\"body\"><span><span>Say several single words</span></span></li>\r\n\t<li class=\"body\"><span><span>Point to 1 body part (like their nose) when asked</span></span></li>\r\n\t<li class=\"body\"><span><span>Point to show someone what they want</span></span></li>\r\n\t<li class=\"body\"><span><span>Walk on their own</span></span></li>\r\n\t<li class=\"body\"><span><span>Use a spoon to eat</span></span></li>\r\n</ul>\r\n\r\n<p><span><span><span><span><span><span><span><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/www.cdc.gov/ncbddd/actearly/milestones/milestones-18mo.html?_label_=%3Cspan%3E%3Cspan%3ECheck+out+this+complete+list+of+milestones+for+kids+age+18+months%3C%2Fspan%3E%3C%2Fspan%3E\"><span><span>Check out this complete list of milestones for kids age 18 months</span></span></a></span><span><span>.&nbsp;</span></span></span></span></span></span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "The Basics: Ages 24 to 30 Months",
+                    "Description": "",
+                    "Content": "<h3>By age 24 months (2 years), most kids:</h3>\r\n\r\n<ul>\r\n\t<li class=\"body\"><span><span>Stand on their tiptoes</span></span></li>\r\n\t<li class=\"body\"><span><span>Kick a ball without losing their balance</span></span></li>\r\n\t<li class=\"body\"><span><span>Have at least 16 teeth</span></span></li>\r\n\t<li class=\"body\"><span><span>Can tell someone when they’re hungry, thirsty, or need to use the&nbsp;bathroom</span></span></li>\r\n\t<li class=\"body\"><span><span>Understand instructions with 2 steps, like&nbsp;“Put on your shoes and then get your&nbsp;ball”</span></span></li>\r\n\t<li class=\"body\"><span><span>Copy others, especially adults and older children</span></span></li>\r\n\t<li class=\"body\"><span><span>Can name items in a picture book (like a cat or dog)</span></span></li>\r\n</ul>\r\n\r\n<p><span><span><span><span><span><span><span><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/www.cdc.gov/ncbddd/actearly/milestones/milestones-2yr.html?_label_=%3Cspan%3E%3Cspan%3ECheck+out+this+complete+list+of+milestones+for+kids+age+24+months%3C%2Fspan%3E%3C%2Fspan%3E\"><span><span>Check out this complete list of milestones for kids age 24 months</span></span></a></span><span><span>.&nbsp;</span></span></span></span></span></span></span></span></span></span></span></span></p>\r\n\r\n<h3>By age 30 months, most kids:</h3>\r\n\r\n<ul>\r\n\t<li class=\"body\"><span><span>Play simple games with other kids, like tag</span></span></li>\r\n\t<li class=\"body\"><span><span>Brush their teeth with help</span></span></li>\r\n\t<li class=\"body\"><span><span>Jump up and down in place</span></span></li>\r\n\t<li class=\"body\"><span><span>Put on their clothes with help</span></span></li>\r\n</ul>\r\n"
+                },
+                {
+                    "Title": "The Basics: Ages 3 to 4 Years",
+                    "Description": "",
+                    "Content": "<h3>By age 3 years, most kids:</h3>\r\n\r\n<ul>\r\n\t<li class=\"body\"><span><span>Have all 20 “baby” teeth</span></span></li>\r\n\t<li class=\"body\"><span><span>Use the toilet during the day (may still need a diaper overnight)</span></span></li>\r\n\t<li class=\"body\"><span><span>Copy a circle when drawing</span></span></li>\r\n\t<li class=\"body\"><span><span>Put 1 foot on each step when walking up and down stairs</span></span></li>\r\n\t<li class=\"body\"><span><span>Speak in sentences of 3 to 4 words</span></span></li>\r\n\t<li class=\"body\"><span><span>Ask questions</span></span></li>\r\n\t<li class=\"body\"><span><span>Know their first name, age, and sex</span></span></li>\r\n</ul>\r\n\r\n<p><span><span><span><span><span><span><span><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/www.cdc.gov/ncbddd/actearly/milestones/milestones-3yr.html?_label_=%3Cspan%3E%3Cspan%3ECheck+out+this+complete+list+of+milestones+for+kids+age+3+years%3C%2Fspan%3E%3C%2Fspan%3E\"><span><span>Check out this complete list of milestones for kids age 3 years</span></span></a></span><span><span>.&nbsp;</span></span></span></span></span></span></span></span></span></span></span></span></p>\r\n\r\n<h3>By age 4 years, most kids:</h3>\r\n\r\n<ul>\r\n\t<li class=\"body\"><span><span>Hop on 1 foot and balance on 1 foot for a short time</span></span></li>\r\n\t<li class=\"body\"><span><span>Use child-safe scissors</span></span></li>\r\n\t<li class=\"body\"><span><span>Count to at least 4</span></span></li>\r\n\t<li class=\"body\"><span><span>Ask lots of questions</span></span></li>\r\n\t<li class=\"body\"><span><span>Play with imaginary (pretend) friends</span></span></li>\r\n\t<li class=\"body\"><span><span>Can name some colors and numbers</span></span></li>\r\n\t<li class=\"body\"><span><span>Play simple board games and card games</span></span></li>\r\n</ul>\r\n\r\n<p><span><span><span><span><span><span><span><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/www.cdc.gov/ncbddd/actearly/milestones/milestones-4yr.html?_label_=%3Cspan%3E%3Cspan%3ECheck+out+this+complete+list+of+milestones+for+kids+age+4+years%3C%2Fspan%3E%3C%2Fspan%3E\"><span><span>Check out this complete list of milestones for kids age 4 years</span></span></a></span><span><span>.&nbsp;</span></span></span></span></span></span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "Take Action: Get Ready",
+                    "Description": "",
+                    "Content": "<p class=\"body\"><span><span><span><span><span><span><span>Take these steps to help you and your child get the most out of well-child visits.</span></span></span></span></span></span></span></p>\r\n\r\n<h3 class=\"body\"><span><span><span><span><span><span><span><strong>Gather important information.</strong></span></span></span></span></span></span></span></h3>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>Bring any medical records you have to the appointment, including a record of vaccines (shots) your child has received.</span></span></span></span></span></span></span></p>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>Make a list of any important changes in your child’s life since the last doctor’s visit, like a:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"body\"><span><span>New brother or sister</span></span></li>\r\n\t<li class=\"body\"><span><span>Serious illness or death in the family</span></span></li>\r\n\t<li class=\"body\"><span><span>Separation or divorce</span></span></li>\r\n\t<li class=\"body\"><span><span>Change in child care</span></span></li>\r\n</ul>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>Use this tool to&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/phgkb.cdc.gov/FHH/html/index.html?_label_=%3Cspan%3Ekeep+track+of+your+child%E2%80%99s+family+health+history%3C%2Fspan%3E\"><span>keep track of your child’s family health history</span></a>.</span></span></span></span></span></span></span></p>\r\n\r\n<h4 class=\"body\"><span><span><span><span><span><span><span>Ask other caregivers about your child.</span></span></span></span></span></span></span></h4>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>Before you visit the doctor, talk with others who care for your child, like a grandparent, daycare provider, or babysitter. They may be able to help you think of questions to ask the doctor or nurse.</span></span></span></span></span></span></span></p>\r\n\r\n<h3 class=\"body\"><span><span><span><span><span><span><span>What about cost?</span></span></span></span></span></span></span></h3>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>Under the Affordable Care Act, insurance plans must cover well-child visits. Depending on your insurance plan, you may be able to get well-child visits at no cost to you. Check with your insurance company to find out more.</span></span></span></span></span></span></span></p>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>Your child may also qualify for free or low-cost health insurance through Medicaid or the Children’s Health Insurance Program (CHIP). <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.insurekidsnow.gov/coverage/index.html?_label_=Learn+about+coverage+options\">Learn about coverage options</a> for your family.</span></span></span></span></span></span></span></p>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>If you don’t have insurance, you may still be able to get free or low-cost well-child visits. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/findahealthcenter.hrsa.gov/?_label_=Find+a+health+center+near+you\">Find a health center near you</a> and ask about well-child visits.</span></span></span></span></span></span></span></p>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>To learn more, check out these resources:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"body\"><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.healthcare.gov/preventive-care-children/?_label_=Free+preventive+care+for+children+covered+by+the+Affordable+Care+Act\">Free preventive care for children covered by the Affordable Care Act</a></li>\r\n\t<li class=\"body\"><span><span><span><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.healthcare.gov/health-care-law-protections/?_label_=How+the+Affordable+Care+Act+protects+you+and+your+family\">How the Affordable Care Act protects you and your family</a></span></span></span></span></span></span></span></li>\r\n\t<li class=\"body\"><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/marketplace.cms.gov/technical-assistance-resources/c2c-roadmap.pdf?_label_=%3Cspan%3E%3Cspan%3E%3Cspan%3E%3Cspan%3E%3Cspan%3E%3Cspan%3E%3Cspan%3EUnderstanding+your+health+insurance+and+how+to+use+it+%5BPDF+-+698+KB%5D%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E\"><span><span><span><span><span><span><span>Understanding your health insurance and how to use it [PDF - 698 KB]</span></span></span></span></span></span></span></a></li>\r\n</ul>\r\n"
+                },
+                {
+                    "Title": "Take Action: Ask Questions",
+                    "Description": "",
+                    "Content": "<h3 class=\"body\"><span><span><span><span><span><span><span>Make a list of questions you want to ask the doctor.</span></span></span></span></span></span></span></h3>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>Before the well-child visit, write down 3 to 5 questions you have. This visit is a great time to ask the doctor or nurse any questions about:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"body\"><span><span>A health condition your child has (like asthma or an allergy)</span></span></li>\r\n\t<li class=\"body\"><span><span>Changes in sleeping or eating habits</span></span></li>\r\n\t<li class=\"body\"><span><span>How to help kids in the family get along</span></span></li>\r\n</ul>\r\n\r\n<h4 class=\"body\"><span><span><span><span><span><span><span>Here are some questions you may want&nbsp;to ask:</span></span></span></span></span></span></span></h4>\r\n\r\n<ul>\r\n\t<li class=\"body\"><span><span>Is my child up&nbsp;to&nbsp;date on vaccines?</span></span></li>\r\n\t<li class=\"body\"><span><span>How can I make sure my child is getting enough physical activity?</span></span></li>\r\n\t<li class=\"body\"><span><span>Is my child at a healthy weight?</span></span></li>\r\n\t<li class=\"body\"><span><span>How can I help my child try different foods?</span></span></li>\r\n\t<li class=\"body\"><span><span>What are appropriate ways to discipline my child?</span></span></li>\r\n\t<li class=\"body\"><span><span>How much screen time is okay for young children?</span></span></li>\r\n</ul>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>Take a notepad, smartphone, or tablet and write down the answers so you remember them&nbsp;later.</span></span></span></span></span></span></span></p>\r\n\r\n<h4 class=\"body\"><span><span><span><span><span><span><span>Ask what to do if your child gets sick.&nbsp;</span></span></span></span></span></span></span></h4>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>Make sure you know how to get in touch with a doctor or nurse when the office is closed. Ask how to get hold of the doctor on call — or if there's a nurse&nbsp;information service you can call at night or during the weekend.&nbsp;</span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "Take Action: What to Expect",
+                    "Description": "",
+                    "Content": "<h3>Know what to expect.</h3>\r\n\r\n<p><span><span><span><span><span><span><span>During each well-child visit, the doctor or nurse will ask you questions about your child, do a physical exam, and update your child's medical history. You'll also be able to ask your questions and discuss any problems you may be having.</span></span></span></span></span></span></span></p>\r\n\r\n<h3><strong>The doctor or nurse will ask questions about your child.</strong></h3>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>The doctor or nurse may ask about:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"body\"><span><span>Behavior — Does your child have trouble following directions?</span></span></li>\r\n\t<li class=\"body\"><span><span>Health — Does your child often complain of stomachaches or other kinds of pain?</span></span></li>\r\n\t<li class=\"body\"><span><span>Activities — What types of pretend play does your child like?</span></span></li>\r\n\t<li class=\"body\"><span><span>Eating habits — What does your child eat on a normal day?</span></span></li>\r\n\t<li class=\"body\"><span><span>Family — Have there been any changes in your family since your last&nbsp;visit?</span></span></li>\r\n</ul>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>They may also ask questions about safety, like:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"body\"><span><span><span><span><span><span><span>Does your child always ride in a car seat in the back seat of the car?&nbsp;</span></span></span></span></span></span></span></li>\r\n\t<li class=\"body\"><span><span><span><span><span><span><span>Does anyone in your home have a gun? If so, is it unloaded and locked in a place where your child can’t get it?</span></span></span></span></span></span></span></li>\r\n\t<li class=\"body\"><span><span><span><span><span><span><span>Is there a swimming pool or other water around your home?</span></span></span></span></span></span></span></li>\r\n\t<li class=\"body\"><span><span><span><span><span><span><span>What steps have you taken to childproof your home? Do you have gates on stairs and latches on cabinets?</span></span></span></span></span></span></span></li>\r\n</ul>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>Your answers to questions like these will help the doctor or nurse make sure your child is healthy, safe, and developing normally.</span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "Take Action: Physical Exam",
+                    "Description": "",
+                    "Content": "<h3><strong>The doctor or nurse will also check your child’s body.</strong></h3>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>To check your child’s body, the doctor or nurse will:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span><span>Measure your child’s height and weight</span></span></span></span></li>\r\n\t<li><span><span><span><span>Check your child’s blood pressure</span></span></span></span></li>\r\n\t<li><span><span><span><span><span>Check your child’s vision</span></span></span></span></span></li>\r\n\t<li><span><span><span><span>Check your child’s body parts (this is called a physical exam)</span></span></span></span></li>\r\n\t<li><span><span><span><span><span>Give your child shots they need</span></span></span></span></span></li>\r\n</ul>\r\n\r\n<p class=\"body\"><span><span><span><span><span><span><span>Learn more about your child’s health care:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"body\"><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/doctor-visits/shots-vaccines/get-your-childs-shots-schedule?_label_=Find+out+how+to+get+your+child%E2%80%99s+shots+on+schedule\">Find out how to get your child’s shots on schedule</a></span></span></li>\r\n\t<li class=\"body\"><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/doctor-visits/screening-tests/get-your-childs-vision-checked?_label_=Learn+how+to+take+care+of+your+child%E2%80%99s+vision\">Learn how to take care of your child’s vision</a></span></span></li>\r\n</ul>\r\n"
+                }
+            ]
+        },
+        "MoreInfoItems": null,
+        "HealthfinderLogo": "https://health.gov/themes/custom/healthfinder/images/MyHF.svg",
+        "HealthfinderUrl": "https://health.gov/myhealthfinder"
+    },
+    {
+        "Type": "Topic",
+        "Id": "514",
+        "Title": "Get Tested for Breast Cancer",
+        "Shortdesc": "Not only was I having problems with my vision but my eyes were also itchy, irritated and red. They treated for dry eyes",
+        "TranslationId": "514",
+        "TranslationTitle": "",
+        "Categories": "Breast and Ovarian Cancer, Screening Tests",
+        "Populations": "",
+        "MyHFTitle": "",
+        "MyHFDescription": "",
+        "MyHFCategory": "",
+        "MyHFCategoryHeading": "",
+        "LastUpdate": "1623348738",
+        "ImageUrl": "https://health.gov/sites/default/files/2020-01/gtfbc.jpg",
+        "ImageAlt": "get-tested-for-breast-cancer",
+        "AccessibleVersion": "https://health.gov/myhealthfinder/topics/health-conditions/cancer/get-tested-breast-cancer",
+        "RelatedItems": {
+            "RelatedItem": [
+                {
+                    "Type": "Topic",
+                    "Id": "531",
+                    "Title": "Get Screened",
+                    "Url": "https://health.gov/myhealthfinder/topics/doctor-visits/screening-tests/get-screened"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30540",
+                    "Title": "Get Your Well-Woman Visit Every Year",
+                    "Url": "https://health.gov/myhealthfinder/topics/everyday-healthy-living/sexual-health/get-your-well-woman-visit-every-year"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "536",
+                    "Title": "Get Screened for Cervical Cancer",
+                    "Url": "https://health.gov/myhealthfinder/topics/doctor-visits/screening-tests/get-screened-cervical-cancer"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30584",
+                    "Title": "Genetic Testing to Learn About Your Risk of Breast and Ovarian Cancer: Questions for the doctor",
+                    "Url": "https://health.gov/myhealthfinder/topics/doctor-visits/talking-doctor/genetic-testing-learn-about-your-risk-breast-and-ovarian-cancer-questions-doctor"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30593",
+                    "Title": "Mammograms: Questions for the doctor",
+                    "Url": "https://health.gov/myhealthfinder/topics/doctor-visits/talking-doctor/mammograms-questions-doctor"
+                }
+            ]
+        },
+        "Sections": {
+            "section": [
+                {
+                    "Title": "The Basics: Overview",
+                    "Description": "",
+                    "Content": "<p><span><span><span><span><span><span><span>Breast cancer is one of the most common kinds of cancer in women. About 1 in 8 women&nbsp;in the United States will get breast cancer&nbsp;during her lifetime.&nbsp;</span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span>The good news is that mammograms can help find breast cancer early — before it spreads to other parts of the body.&nbsp;Most&nbsp;women can survive breast cancer if it’s found and treated early.</span></span></span></span></span></span></span></p>\r\n\r\n<h3>How often should I get mammograms?</h3>\r\n\r\n<h4>Women ages 40 to 49</h4>\r\n\r\n<p>Talk with your doctor about when to start getting mammograms and how often to get them.</p>\r\n\r\n<h4>Women ages 50 to 74</h4>\r\n\r\n<p><span><span><span><span><span><span><span>Get mammograms every 2 years. Talk with your doctor to decide if you need them more often.</span></span></span></span></span></span></span></p>\r\n\r\n<h3>What is a mammogram?</h3>\r\n\r\n<p><span><span><span><span><span><span><span>A mammogram is an x-ray picture of the breast. Mammograms use a very low level of x-rays, which are a type of radiation. The risk of harm from this radiation is very low.</span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span>Mammograms can be used to screen (test) for breast cancer in women with no signs or symptoms. They can also help doctors figure out if cancer is causing a particular symptom — like a&nbsp;lump&nbsp;or another change in the breast.</span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span>When you get a mammogram, a technician will place your breast&nbsp;between 2 plastic plates and press it flat to get a clear picture. Getting a mammogram can be uncomfortable, but it doesn't last long.</span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span>It takes about 20 minutes to get mammograms.&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.womenshealth.gov/a-z-topics/mammograms?_label_=Learn+more+about+mammograms\">Learn more about mammograms</a>.&nbsp;</span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "The Basics: Breast Cancer",
+                    "Description": "",
+                    "Content": "<h3>What is breast cancer?</h3>\r\n\r\n<p><span><span><span><span><span><span><span>Breast cancer is cancer that forms in breast tissue. Like all cancers, breast cancer can spread to other parts of the body.</span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span>Talk with your doctor or nurse if you notice any of these changes:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span>A lump or an area that feels very firm in the breast or armpit</span></span></li>\r\n\t<li><span><span>A change in the size, shape, or feel of the breast</span></span></li>\r\n\t<li><span><span>Fluid (called discharge) coming out of a nipple</span></span></li>\r\n\t<li><span><span>Skin on the breast that is itchy, red, flaky, or dimpled</span></span></li>\r\n</ul>\r\n\r\n<p><span><span><span><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.cancer.gov/types/breast?_label_=Learn+more+about+breast+cancer\">Learn more about breast cancer</a>.</span></span></span></span></span></span></span></p>\r\n\r\n<h4>What if the doctor finds something in my breast?</h4>\r\n\r\n<p><span><span><span><span><span><span><span>Mammograms let the doctor or nurse look for lumps or other changes inside your breasts that you can’t feel from the outside. If your doctor finds&nbsp;a lump or another change in your breast tissue,&nbsp;you may need other tests to find out if it’s cancer or not.</span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span>The doctor or nurse may take a small bit of tissue from the breast for testing. This is called a biopsy.</span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "Take Action: See Your Doctor",
+                    "Description": "",
+                    "Content": "<p>Talk with your doctor about when and how often to get mammograms.</p>\r\n\r\n<h3>Ask the doctor about your risk for breast cancer.<strong>&nbsp;</strong></h3>\r\n\r\n<p><span><span><span><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/doctor-visits/talking-with-the-doctor/mammograms-questions-for-the-doctor?_label_=Use+these+questions+to+start+a+conversation+with+your+doctor+about%26nbsp%3Bmammograms\">Use these questions to start a conversation with your doctor about&nbsp;mammograms</a>. You can also ask about ways you may be able to lower your risk for breast cancer.</span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/health-conditions/cancer/talk-doctor-if-breast-or-ovarian-cancer-runs-your-family?_label_=Tell+your+doctor+if+breast+or+ovarian+cancer+runs+in+your+family\">Tell your doctor if breast or ovarian cancer runs in your family</a> — that may increase your risk for developing these and other types of cancer. You can <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/doctor-visits/talking-doctor/genetic-testing-learn-about-your-risk-breast-and-ovarian-cancer-questions-doctor?_label_=use+these+questions+to+talk+with+your+doctor+about+genetic%26nbsp%3Btesting+for+breast+or+ovarian+cancer\">use these questions to talk with your doctor about genetic&nbsp;testing for breast or ovarian cancer</a>.&nbsp;</span></span></span></span></span></span></span></p>\r\n\r\n<p>Together, you and your doctor can decide what’s best for you.</p>\r\n"
+                },
+                {
+                    "Title": "Take Action: Cost and Insurance",
+                    "Description": "",
+                    "Content": "<h3>What about cost?</h3>\r\n\r\n<p><span><span><span><span><span><span><span>Under the&nbsp;Affordable Care Act, insurance plans must cover mammograms for women over age 40. Depending on your insurance plan, you may be able to get mammograms at no cost to you. Check with your insurance company to find out more. </span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span>Medicare also covers mammograms for women over age 40 at no cost. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/www.medicare.gov/coverage/mammograms.html?_label_=Find+out+about+Medicare+coverage+for+mammograms\">Find out about Medicare coverage for mammograms</a>.</span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span>If you don’t have insurance, you can still get mammograms. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.cdc.gov/cancer/nbccedp/screenings.htm?_label_=Find+a+program+near+you+that+offers+free+or+low-cost+mammograms\">Find a program near you that offers free or low-cost mammograms</a>.</span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span>To learn more, check out these resources:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.healthcare.gov/preventive-care-women/?_label_=Free+preventive+care%26nbsp%3Bfor+women+covered+by+the+Affordable+Care+Act\">Free preventive care&nbsp;for women covered by the Affordable Care Act</a></span></span></span></li>\r\n\t<li><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.healthcare.gov/health-care-law-protections/?_label_=How+the+Affordable+Care+Act+protects+you\">How the Affordable Care Act protects you</a>&nbsp;&nbsp;</span></span></span></li>\r\n\t<li><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/marketplace.cms.gov/technical-assistance-resources/c2c-roadmap.pdf?_label_=Understanding+your+health+insurance+and+how+to+use+it+%5BPDF+-+698%26nbsp%3BKB%5D\" id=\"anch_81\">Understanding your health insurance and how to use it [PDF - 698&nbsp;KB]</a></li>\r\n</ul>\r\n"
+                },
+                {
+                    "Title": "Take Action: Healthy Habits",
+                    "Description": "",
+                    "Content": "<h3>Get support.</h3>\r\n\r\n<p><span><span><span><span><span><span><span>Use these tips to get support when you get mammograms.</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span>Ask other women who have had mammograms about what to expect</span></span></li>\r\n\t<li><span><span>Ask a family member or friend to go with you when you get mammograms</span></span></li>\r\n</ul>\r\n\r\n<p><span><span><span><span><span><span><span>Make sure to ask when you’ll get your mammogram results. When you get the results, ask the doctor or nurse to explain what the results mean.&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.cancer.gov/types/breast/breast-changes?_hash_=mammogram-findings&_label_=Learn+more+about+mammogram+results\">Learn more about mammogram results</a>.</span></span></span></span></span></span></span></p>\r\n\r\n<h3>Get active.</h3>\r\n\r\n<p><span><span><span><span><span><span><span>Being active increases your chances of living longer. Physical activity helps prevent several types of cancer, including breast cancer.&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topic/health-conditions/diabetes/get-active?_label_=Learn+more+about+how+to+get+active\">Learn more about how to get active</a>.&nbsp;</span></span></span></span></span></span></span></p>\r\n\r\n<h3>Get your well-woman visit.</h3>\r\n\r\n<p><span><span><span><span><span><span><span>Get a well-woman visit every year. Use this visit to talk with your doctor or nurse about important screenings and services to help you stay healthy. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/everyday-healthy-living/sexual-health/get-your-well-woman-visit-every-year?_label_=Learn+more+about+well-woman+visits\">Learn more about well-woman visits</a>. </span></span></span></span></span></span></span></p>\r\n"
+                }
+            ]
+        },
+        "MoreInfoItems": null,
+        "HealthfinderLogo": "https://health.gov/themes/custom/healthfinder/images/MyHF.svg",
+        "HealthfinderUrl": "https://health.gov/myhealthfinder"
+    },
+    {
+        "Type": "Topic",
+        "Id": "527",
+        "Title": "Make the Most of Your Child’s Visit to the Doctor (Ages 5 to 10)",
+        "Shortdesc": "Dynamically reinvent market-driven opportunities and ubiquitous interfaces.",
+        "TranslationId": "527",
+        "TranslationTitle": "",
+        "Categories": "Checkups for Children and Teens",
+        "Populations": "",
+        "MyHFTitle": "",
+        "MyHFDescription": "",
+        "MyHFCategory": "",
+        "MyHFCategoryHeading": "",
+        "LastUpdate": "1630609219",
+        "ImageUrl": "https://health.gov/sites/default/files/2020-01/shutterstock_272136395_0.jpg",
+        "ImageAlt": "Health care provider using a stethoscope on a young girl while her mother watches",
+        "AccessibleVersion": "https://health.gov/myhealthfinder/topics/doctor-visits/regular-checkups/make-most-your-childs-visit-doctor-ages-5-10",
+        "RelatedItems": {
+            "RelatedItem": [
+                {
+                    "Type": "Topic",
+                    "Id": "30608",
+                    "Title": "Healthy Snacks: Quick tips for parents",
+                    "Url": "https://health.gov/myhealthfinder/topics/everyday-healthy-living/nutrition/healthy-snacks-quick-tips-parents"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30566",
+                    "Title": "Help Your Child Stay at a Healthy Weight",
+                    "Url": "https://health.gov/myhealthfinder/topics/health-conditions/obesity/help-your-child-stay-healthy-weight"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30542",
+                    "Title": "Talk to Your Kids About Sex and Healthy Relationships",
+                    "Url": "https://health.gov/myhealthfinder/topics/everyday-healthy-living/sexual-health/talk-your-kids-about-sex-and-healthy-relationships"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "541",
+                    "Title": "Get Your Child’s Vision Checked",
+                    "Url": "https://health.gov/myhealthfinder/topics/doctor-visits/screening-tests/get-your-childs-vision-checked"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "30535",
+                    "Title": "Talk to Your Kids About Tobacco, Alcohol, and Drugs",
+                    "Url": "https://health.gov/myhealthfinder/topics/everyday-healthy-living/mental-health-and-relationships/talk-your-kids-about-tobacco-alcohol-and-drugs"
+                },
+                {
+                    "Type": "Topic",
+                    "Id": "530",
+                    "Title": "Take Care of Your Child's Teeth",
+                    "Url": "https://health.gov/myhealthfinder/topics/doctor-visits/regular-checkups/take-care-your-childs-teeth"
+                }
+            ]
+        },
+        "Sections": {
+            "section": [
+                {
+                    "Title": "The Basics: Overview",
+                    "Description": "",
+                    "Content": "<p><span><span><span><span><span><span><span><span>Children ages 5 to 10 need to go to the doctor or nurse for a “well-child visit” once a year.</span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span>A well-child visit is when you take your child to the doctor to make sure they’re healthy and developing normally. This is different from other visits for sickness or injury.</span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span>At a well-child visit, the doctor or nurse can help catch any problems early, when they may be easier to treat. You’ll also have a chance to ask any questions you may have about your child’s behavior or development.</span></span></span></span></span></span></span></span></p>\r\n\r\n<p><span><span><span><span><span><span><span><span>Learn what to expect so you can make the most of each visit.</span></span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "The Basics: Child Development",
+                    "Description": "",
+                    "Content": "<h3>How do I know if my child is growing and developing on&nbsp;schedule?</h3>\r\n\r\n<p class=\"bodycopy\"><span><span><span><span><span><span><span>Your child’s doctor or nurse can help you understand how your child is developing and learning to do new things — like read or brush their teeth. These are sometimes called “developmental milestones.”</span></span></span></span></span></span></span></p>\r\n\r\n<p class=\"bodycopy\"><span><span><span><span><span><span><span>Developmental milestones for children ages 5 to 10 include physical, learning, and social skills — things like:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"bodycopy\"><span><span>Developing skills for success in school (like listening, paying attention, reading, and math)</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Taking care of their&nbsp;bodies without help&nbsp;(like bathing, brushing teeth, and getting&nbsp;dressed)</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Learning from mistakes or failures and trying again</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Helping with simple chores</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Following family rules</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Developing friendships and getting along with other children</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Participating in activities like&nbsp;school clubs, sports teams, or music lessons</span></span></li>\r\n</ul>\r\n\r\n<p class=\"bodycopy\"><span><span><span><span><span><span><span>See a complete list of developmental milestones for kids who are:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"bodycopy\"><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/www.cdc.gov/ncbddd/childdevelopment/positiveparenting/preschoolers.html?_label_=%3Cspan%3EAges+3+to+5%3C%2Fspan%3E\"><span>Ages 3 to 5</span></a></span></span></li>\r\n\t<li class=\"bodycopy\"><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/www.cdc.gov/ncbddd/childdevelopment/positiveparenting/middle.html?_label_=%3Cspan%3EAges+6+to+8%3C%2Fspan%3E\"><span>Ages 6 to 8</span></a></span></span></li>\r\n\t<li class=\"bodycopy\"><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/http/www.cdc.gov/ncbddd/childdevelopment/positiveparenting/middle2.html?_label_=%3Cspan%3EAges+9+to+11%3C%2Fspan%3E\"><span>Ages 9 to 11</span></a></span></span></li>\r\n</ul>\r\n"
+                },
+                {
+                    "Title": "Take Action: Get Ready",
+                    "Description": "",
+                    "Content": "<p>Take these steps to help you and your child get the most out of well-child visits.</p>\r\n\r\n<h3>Gather important information.</h3>\r\n\r\n<p class=\"bodycopy\"><span><span><span><span><span><span><span>Take any medical records you have to the appointment, including a record of vaccines (shots) your child has received. If your child gets special services at school because of a health condition or disability, bring that paperwork, too.</span></span></span></span></span></span></span></p>\r\n\r\n<p class=\"bodycopy\"><span><span><span><span><span><span><span>Make a list of any important changes in your child’s life since the last doctor’s visit, like a:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"bodycopy\"><span><span>New brother or sister</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Separation or divorce&nbsp;— or a parent spending time in jail or prison</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>New school or a move to a new neighborhood</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Serious illness or death of a friend or family member </span></span></li>\r\n</ul>\r\n\r\n<p class=\"bodycopy\"><span><span><span><span><span><span><span>Use this tool to&nbsp;<a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/phgkb.cdc.gov/FHH/html/index.html?_label_=%3Cspan%3Ekeep+track+of+your+child%E2%80%99s+family+health+history%3C%2Fspan%3E\"><span>keep track of your child’s family health history</span></a>.</span></span></span></span></span></span></span></p>\r\n\r\n<h3>Help your child get more involved in doctor visits.</h3>\r\n\r\n<p class=\"bodycopy\"><span><span><span><span><span><span><span>You can help your child get involved by letting them know&nbsp;<span>what to expect<span class=\"MsoHyperlink\"><span>. </span></span></span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/kidshealth.org/en/parents/dr-visits.html?_label_=Learn+how+to+prepare+your+child+for+a+doctor+visit\">Learn how to prepare your child for a doctor visit</a>.</span></span></span></span></span></span></span></p>\r\n\r\n<h4 class=\"bodycopy\"><span><span><span><span><span><span><span>What about cost?</span></span></span></span></span></span></span></h4>\r\n\r\n<p class=\"bodycopy\"><span><span><span><span><span><span><span>Under the Affordable Care Act, insurance plans must cover well-child visits. Depending on your insurance plan, you may be able to get well-child visits at no cost to you. Check with your insurance company to find out more.</span></span></span></span></span></span></span></p>\r\n\r\n<p class=\"bodycopy\"><span><span><span><span><span><span><span>Your child may also qualify for free or low-cost health insurance through Medicaid or the Children’s Health Insurance Program (CHIP). <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.insurekidsnow.gov/coverage/index.html?_label_=Learn+about+coverage+options\">Learn about coverage options</a> for your family.</span></span></span></span></span></span></span></p>\r\n\r\n<p class=\"bodycopy\"><span><span><span><span><span><span><span>If you don’t have insurance, you may still be able to get free or low-cost well-child visits. <a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/findahealthcenter.hrsa.gov/?_label_=Find+a+health+center+near+you\">Find a health center near you</a> and ask about well-child visits.</span></span></span></span></span></span></span></p>\r\n\r\n<p class=\"bodycopy\"><span><span><span><span><span><span><span>To learn more, check out these resources:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"bodycopy\"><span><span><span><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.healthcare.gov/preventive-care-children/?_label_=Free+preventive+care+for+children+covered+by+the+Affordable+Care+Act\">Free preventive care for children covered by the Affordable Care Act</a></span></span></span></span></span></span></span></li>\r\n\t<li class=\"bodycopy\"><span><span><span><span><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/www.healthcare.gov/health-care-law-protections/?_label_=How+the+Affordable+Care+Act+protects+you+and+your+family\">How the Affordable Care Act protects you and your family</a></span></span></span></span></span></span></span></li>\r\n\t<li class=\"bodycopy\"><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/marketplace.cms.gov/technical-assistance-resources/c2c-roadmap.pdf?_label_=%3Cspan%3E%3Cspan%3E%3Cspan%3E%3Cspan%3E%3Cspan%3E%3Cspan%3E%3Cspan%3EUnderstanding+your+health+insurance+and+how+to+use+it+%5BPDF+-+698+KB%5D%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fspan%3E\"><span><span><span><span><span><span><span>Understanding your health insurance and how to use it [PDF - 698 KB]</span></span></span></span></span></span></span></a></li>\r\n</ul>\r\n"
+                },
+                {
+                    "Title": "Take Action: Ask Questions",
+                    "Description": "",
+                    "Content": "<h3>Make a list of questions you want to ask the doctor.</h3>\r\n\r\n<p class=\"bodycopy\"><span><span><span><span><span><span><span>Before the well-child visit, write down 3 to 5 questions you have. This visit is a great time to ask the doctor or nurse any questions about:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"bodycopy\"><span><span>A health condition your child has (like asthma, allergies, or a speech problem)</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Changes in behavior or mood</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Problems in school —&nbsp;with learning or with other children</span></span></li>\r\n</ul>\r\n\r\n<p class=\"bodycopy\"><span><span><span><span><span><span><span>Here are some important questions to ask:</span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"bodycopy\"><span><span>Is my child up&nbsp;to&nbsp;date on vaccines?</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>How can I make sure my child is getting enough physical activity?</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>How can I help my child eat healthy?</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Is my child at a healthy weight?</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>How can I teach my child to use the internet safely?</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>How can I talk with my child about bullying?</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>How can I help my child know what to expect during puberty?</span></span></li>\r\n</ul>\r\n\r\n<p class=\"bodycopy\"><span><span><span><span><span><span><span>Take a notepad, smartphone, or tablet and write down the answers so you can remember them&nbsp;later.</span></span></span></span></span></span></span></p>\r\n\r\n<h4>Ask what to do if your child gets sick.</h4>\r\n\r\n<p><span><span><span><span><span><span><span>Make sure you know how to get in touch with a doctor or nurse when the office is closed. Ask how to get hold of the doctor on call, or if there's a nurse&nbsp;information service you can call at night or on the weekend.&nbsp;</span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "Take Action: What to Expect",
+                    "Description": "",
+                    "Content": "<h3>Know what to expect.</h3>\r\n\r\n<p><span><span><span><span><span><span><span>During each well-child visit, the doctor or nurse will ask you questions about your child, do a physical exam, and&nbsp;update your child’s medical history. You'll also be able to ask your questions and discuss any problems.&nbsp;</span></span></span></span></span></span></span></p>\r\n\r\n<h3>The doctor or nurse will ask you and your child questions.</h3>\r\n\r\n<p>The doctor or nurse may ask about:</p>\r\n\r\n<ul>\r\n\t<li class=\"bodycopy\"><span><span>Behavior — Does your child have trouble following directions at home or at&nbsp;school?</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Health — Does your child often complain of headaches or other&nbsp;pain?</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>School — Does your child look forward to going to school?</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Activities&nbsp;— What does your child like to do after school and on weekends?</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Eating habits — What does your child eat on a normal day?</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Family — Have there been any changes in your family since your last&nbsp;visit?</span></span></li>\r\n</ul>\r\n\r\n<p class=\"bodycopy\"><span><span>They may also ask questions about safety, like:</span></span></p>\r\n\r\n<ul>\r\n\t<li class=\"bodycopy\"><span><span>Does your child always ride in the back seat of the car?</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Does anyone in your home have a gun? If so, is it unloaded and locked in a place where your child can’t get it?</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Is there a swimming pool or other water around your home?</span></span></li>\r\n</ul>\r\n\r\n<p class=\"bodycopy\"><span><span><span><span><span><span><span>Your answers to questions like these will help the doctor or nurse make sure your child is healthy, safe, and developing normally.</span></span></span></span></span></span></span></p>\r\n"
+                },
+                {
+                    "Title": "Take Action: Physical Exam",
+                    "Description": "",
+                    "Content": "<h3>The doctor or nurse will also check your child’s body.</h3>\r\n\r\n<p>To check your child’s body, the doctor or nurse will:</p>\r\n\r\n<ul>\r\n\t<li class=\"bodycopy\"><span><span>Measure your child’s height and weight</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Check your child’s blood pressure</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Check your child’s vision&nbsp;and hearing</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Check your child’s body parts&nbsp;(this is called a physical exam)</span></span></li>\r\n\t<li class=\"bodycopy\"><span><span>Give your child shots they need</span></span></li>\r\n</ul>\r\n\r\n<p class=\"bodycopy\"><span><span><span><span><span><span><span><span><span>Learn more about your child’s health care.</span></span></span></span></span></span></span></span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/doctor-visits/shots-vaccines/get-your-childs-shots-schedule?_label_=%3Cspan%3EFind+out+how+to+get+your+child%E2%80%99s+shots+on+schedule%3C%2Fspan%3E\"><span>Find out how to get your child’s shots on schedule</span></a></span></span></span></li>\r\n\t<li><span><span><span><a href=\"https://health.gov/myhealthfinder/api/outlink/topicsearch.json/https/health.gov/myhealthfinder/topics/doctor-visits/screening-tests/get-your-childs-vision-checked?_label_=%3Cspan%3ELearn+about+getting+your+child%E2%80%99s+vision+checked%3C%2Fspan%3E\"><span>Learn about getting your child’s vision checked</span></a></span></span></span></li>\r\n</ul>\r\n"
+                }
+            ]
+        },
+        "MoreInfoItems": null,
+        "HealthfinderLogo": "https://health.gov/themes/custom/healthfinder/images/MyHF.svg",
+        "HealthfinderUrl": "https://health.gov/myhealthfinder"
+    }
+]

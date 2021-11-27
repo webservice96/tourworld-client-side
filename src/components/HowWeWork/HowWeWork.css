@@ -1,0 +1,22 @@
+.work-header h5 {
+    color: #3FD0D4;
+}
+
+.work-icon svg {
+    width: 30px;
+    color: #fff;
+}
+
+.work-icon {
+    width: 65px;
+    background-color: #3FD0D4;
+    text-align: center;
+    height: 65px;
+    line-height: 32px;
+    border-radius: 4px;
+    padding: 15px;
+}
+
+.how-we-work-right img {
+    width: 100%;
+}

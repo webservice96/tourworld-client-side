@@ -1,0 +1,31 @@
+.service-card-link {
+    text-decoration: none;
+    color: #333;
+}
+
+.service-card-link:hover {
+    color: #333;
+}
+
+.service-card-link:hover .card {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.service-image {
+    background-color: darkgrey;
+}
+
+.card-custom {
+    padding: 8px;
+    height: 100%;
+}
+
+.singlepage-booking .container, .singlepage-booking .py-5 {
+    padding: 0 !important;
+}
+
+/* single service css */
+
+.single-image {
+    background-color: darkgrey;
+}

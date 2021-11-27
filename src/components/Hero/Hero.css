@@ -1,0 +1,25 @@
+.hero-sec {
+    background-position: 100% 24%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 120px 0px 140px 0px;
+}
+
+.banner-text {
+    padding: 60px;
+    background-color: #fff;
+}
+
+.banner-text h1 {
+    color: #3FD0D4;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+.banner-text p {
+    color: #848e9f;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
